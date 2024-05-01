@@ -40,7 +40,7 @@ def main():
             for age in range(start_age, end_age + 1):
                 processed_data.append([iso, "Female", age, value])
 
-    output_df = pd.DataFrame(processed_data, columns=["ISO", "Sex", "Age", "Value"])
+    output_df = pd.DataFrame(processed_data, columns=["iso3", "sex", "age", "value"])
 
     output_df.to_csv(DATA_OUTPUT_FILEPATH, index=False)
 
