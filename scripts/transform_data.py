@@ -28,7 +28,7 @@ def main():
             start_age, end_age = map(int, age_range.split("_"))
 
             for age in range(start_age, end_age + 1):
-                processed_data.append([iso, "Male", age, value])
+                processed_data.append([iso, "male", age, value])
 
         for i, age_range in enumerate(age_ranges):
             value = row[df.columns[i+18]]  # Female columns start at index 18
@@ -38,7 +38,7 @@ def main():
             start_age, end_age = map(int, age_range.split("_"))
 
             for age in range(start_age, end_age + 1):
-                processed_data.append([iso, "Female", age, value])
+                processed_data.append([iso, "female", age, value])
 
     output_df = pd.DataFrame(processed_data, columns=["iso3", "sex", "age", "value"])
 
