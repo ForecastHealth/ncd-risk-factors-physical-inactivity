@@ -1,3 +1,8 @@
+// Constant is NC_RFInactivity
+// Is in: NF_RFWithPrevs
+// Interventions are: NC_RFPhysicalActivityAwreness, NC_RFPhysicalActivityAdvice
+// Collection is: NC_RFPhysicalInterv
+
 Procedure NCD_CalculateRFImpact (proj : byte; sex, lvl,  t : byte;
    var prev : NC_RFPrevalence;  var RR :NC_RFRR; var impacts : NC_RFImpact;
    var coverages : NC_RFCoverage; var hap_usage : NC_HAP_Cov; var PAF : NC_RFPAF); overload;
