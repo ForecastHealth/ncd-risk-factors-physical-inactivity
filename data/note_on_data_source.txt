@@ -1,0 +1,6 @@
+For the following data sources, we extraced and transformed data from Spectrum.
+The methods which produced these, and the original data sources, can be found in the following repository: https://github.com/ForecastHealth/ncd-relative-risks
+
+Data Sources:
+./data/impact_factors_physical_inactivity.csv
+./data/relative_risks_physical_inactivity.csv
