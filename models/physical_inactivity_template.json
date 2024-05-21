@@ -6,8 +6,8 @@
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -131.74,
-      "y": -11.36,
+      "x": -153.8,
+      "y": 26.65,
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
@@ -22,8 +22,8 @@
     },
     {
       "id": "oJDm2BkV",
-      "x": -134.89,
-      "y": 0.33,
+      "x": -155.56,
+      "y": 39.74,
       "label": "RFInactivity-RR-IHD",
       "color": "#06B4E1",
       "generate_array": {
@@ -38,8 +38,8 @@
     },
     {
       "id": "VGrxOADH",
-      "x": -132.67,
-      "y": 15.69,
+      "x": -151,
+      "y": 51.6,
       "label": "RFInactivity-RR-Diabetes",
       "color": "#06B4E1",
       "generate_array": {
@@ -54,50 +54,68 @@
     },
     {
       "id": "jkrahV63",
-      "x": -63.37,
-      "y": -12.7,
+      "x": -76.8,
+      "y": 26.24,
       "label": "RFInactivity-RR-Stroke-ExcessRisk",
-      "color": "#06B4E1"
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": -1
+        }
+      }
     },
     {
       "id": "61vW3QZY",
-      "x": -63.36,
-      "y": -1.49,
+      "x": -78.67,
+      "y": 39.78,
       "label": "RFInactivity-RR-IHD-ExcessRisk",
-      "color": "#06B4E1"
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": -1
+        }
+      }
     },
     {
       "id": "iwCohCC9",
-      "x": -64.43,
-      "y": 9.73,
+      "x": -73.9,
+      "y": 51.47,
       "label": "RFInactivity-RR-Diabetes-ExcessRisk",
-      "color": "#06B4E1"
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": -1
+        }
+      }
     },
     {
       "id": "09k19mdp",
-      "x": 9.94,
-      "y": -13.54,
+      "x": 17.03,
+      "y": -30.35,
       "label": "RFInactivity-Stroke-prev_rr",
       "color": "#06B4E1"
     },
     {
       "id": "BDzKbva4",
-      "x": 12.74,
-      "y": -3.46,
+      "x": 19.83,
+      "y": -20.27,
       "label": "RFInactivity-IHD-prev_rr",
       "color": "#06B4E1"
     },
     {
       "id": "AQP2Hh22",
-      "x": 11.82,
-      "y": 9.77,
+      "x": 18.91,
+      "y": -7.03,
       "label": "RFInactivity-Diabetes-prev_rr",
       "color": "#06B4E1"
     },
     {
       "id": "7oLYZgvL",
-      "x": -204.94,
-      "y": -2.86,
+      "x": -197.85,
+      "y": -19.66,
       "label": "NC_RFStroke-PAF_Denom",
       "color": "#FFB255",
       "generate_array": {
@@ -109,8 +127,8 @@
     },
     {
       "id": "63ITFBLS",
-      "x": -204.28,
-      "y": 5.66,
+      "x": -197.19,
+      "y": -11.15,
       "label": "NC_RFDiabetes-PAF_Denom",
       "color": "#FFB255",
       "generate_array": {
@@ -122,8 +140,8 @@
     },
     {
       "id": "0aaSvIqn",
-      "x": -201.68,
-      "y": 14.73,
+      "x": -194.59,
+      "y": -2.08,
       "label": "NC_RFIschemicHeart-PAF_Denom",
       "color": "#FFB255",
       "generate_array": {
@@ -135,8 +153,8 @@
     },
     {
       "id": "931b9qHb",
-      "x": 81.49,
-      "y": -4.35,
+      "x": 88.58,
+      "y": -21.16,
       "label": "RFInactivity-BasePrevalence",
       "color": "#06B4E1",
       "generate_array": {
@@ -150,29 +168,29 @@
     },
     {
       "id": "bxgHRIO9",
-      "x": 80.4,
-      "y": 3.47,
+      "x": 87.5,
+      "y": -13.34,
       "label": "RFInactivity-CalculatedPrevalence",
       "color": "#06B4E1"
     },
     {
       "id": "cgjghym1",
-      "x": 164.43,
-      "y": -21.12,
+      "x": 171.52,
+      "y": -37.92,
       "label": "NC_RFPhysicalActivityAdvice-Base-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "w7UW9Tfq",
-      "x": 163.28,
-      "y": -15.59,
+      "x": 170.37,
+      "y": -32.4,
       "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "m3p3kYqZ",
-      "x": 163.27,
-      "y": -9.5,
+      "x": 170.36,
+      "y": -26.31,
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -187,22 +205,22 @@
     },
     {
       "id": "SjkzUCw9",
-      "x": 171.05,
-      "y": 6.83,
+      "x": 178.14,
+      "y": -9.98,
       "label": "NC_RFPhysicalActivityAwreness-Base-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "Xp08uYrT",
-      "x": 171.48,
-      "y": 11.87,
+      "x": 178.57,
+      "y": -4.94,
       "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "lw9B35Qq",
-      "x": 171.46,
-      "y": 17.91,
+      "x": 178.55,
+      "y": 1.1,
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -216,7 +234,29 @@
       }
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "id": "TyIxkdQE",
+      "source": "xTYJjrqF",
+      "target": "jkrahV63",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "add"
+    },
+    {
+      "id": "oJueJAdB",
+      "source": "oJDm2BkV",
+      "target": "61vW3QZY",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "add"
+    },
+    {
+      "id": "sdvaiYYl",
+      "source": "VGrxOADH",
+      "target": "iwCohCC9",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "add"
+    }
+  ],
   "subroutines": [
     {
       "method": "generate_balance",
@@ -231,6 +271,16 @@
     {
       "method": "generate_balance",
       "batch": false,
+      "narration": "Excess Risk are initialised with a balance of -1",
+      "included_source_nodes": [
+        "jkrahV63",
+        "61vW3QZY",
+        "iwCohCC9"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
       "narration": "Constants are Generated",
       "included_source_nodes": [
         "xTYJjrqF",
@@ -239,6 +289,19 @@
         "m3p3kYqZ",
         "lw9B35Qq",
         "931b9qHb"
+      ]
+    },
+    {
+      "batch": false
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Excess Risk is Calculated by Addings relative risk to the excess risk nodes",
+      "included_edges": [
+        "TyIxkdQE",
+        "oJueJAdB",
+        "sdvaiYYl"
       ]
     }
   ]
