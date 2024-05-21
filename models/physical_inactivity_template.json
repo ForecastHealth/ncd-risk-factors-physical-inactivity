@@ -6,8 +6,8 @@
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -132.37,
-      "y": -12.21,
+      "x": -131.74,
+      "y": -11.36,
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
@@ -22,8 +22,8 @@
     },
     {
       "id": "oJDm2BkV",
-      "x": -135.53,
-      "y": -0.51,
+      "x": -134.89,
+      "y": 0.33,
       "label": "RFInactivity-RR-IHD",
       "color": "#06B4E1",
       "generate_array": {
@@ -38,8 +38,8 @@
     },
     {
       "id": "VGrxOADH",
-      "x": -133.31,
-      "y": 14.85,
+      "x": -132.67,
+      "y": 15.69,
       "label": "RFInactivity-RR-Diabetes",
       "color": "#06B4E1",
       "generate_array": {
@@ -54,71 +54,89 @@
     },
     {
       "id": "jkrahV63",
-      "x": -64,
-      "y": -13.54,
+      "x": -63.37,
+      "y": -12.7,
       "label": "RFInactivity-RR-Stroke-ExcessRisk",
       "color": "#06B4E1"
     },
     {
       "id": "61vW3QZY",
-      "x": -64,
-      "y": -2.34,
+      "x": -63.36,
+      "y": -1.49,
       "label": "RFInactivity-RR-IHD-ExcessRisk",
       "color": "#06B4E1"
     },
     {
       "id": "iwCohCC9",
-      "x": -65.06,
-      "y": 8.88,
+      "x": -64.43,
+      "y": 9.73,
       "label": "RFInactivity-RR-Diabetes-ExcessRisk",
       "color": "#06B4E1"
     },
     {
       "id": "09k19mdp",
-      "x": 9.3,
-      "y": -14.39,
+      "x": 9.94,
+      "y": -13.54,
       "label": "RFInactivity-Stroke-prev_rr",
       "color": "#06B4E1"
     },
     {
       "id": "BDzKbva4",
-      "x": 12.1,
-      "y": -4.31,
+      "x": 12.74,
+      "y": -3.46,
       "label": "RFInactivity-IHD-prev_rr",
       "color": "#06B4E1"
     },
     {
       "id": "AQP2Hh22",
-      "x": 11.19,
-      "y": 8.93,
+      "x": 11.82,
+      "y": 9.77,
       "label": "RFInactivity-Diabetes-prev_rr",
       "color": "#06B4E1"
     },
     {
       "id": "7oLYZgvL",
-      "x": -200.39,
-      "y": -17.75,
+      "x": -204.94,
+      "y": -2.86,
       "label": "NC_RFStroke-PAF_Denom",
-      "color": "#FFB255"
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "63ITFBLS",
-      "x": -202.07,
-      "y": 11.33,
+      "x": -204.28,
+      "y": 5.66,
       "label": "NC_RFDiabetes-PAF_Denom",
-      "color": "#FFB255"
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "0aaSvIqn",
-      "x": -197.64,
-      "y": 38.3,
+      "x": -201.68,
+      "y": 14.73,
       "label": "NC_RFIschemicHeart-PAF_Denom",
-      "color": "#FFB255"
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "931b9qHb",
-      "x": 80.85,
-      "y": -5.19,
+      "x": 81.49,
+      "y": -4.35,
       "label": "RFInactivity-BasePrevalence",
       "color": "#06B4E1",
       "generate_array": {
@@ -132,29 +150,29 @@
     },
     {
       "id": "bxgHRIO9",
-      "x": 79.77,
-      "y": 2.63,
+      "x": 80.4,
+      "y": 3.47,
       "label": "RFInactivity-CalculatedPrevalence",
       "color": "#06B4E1"
     },
     {
       "id": "cgjghym1",
-      "x": 163.8,
-      "y": -21.96,
+      "x": 164.43,
+      "y": -21.12,
       "label": "NC_RFPhysicalActivityAdvice-Base-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "w7UW9Tfq",
-      "x": 162.64,
-      "y": -16.44,
+      "x": 163.28,
+      "y": -15.59,
       "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "m3p3kYqZ",
-      "x": 162.64,
-      "y": -10.34,
+      "x": 163.27,
+      "y": -9.5,
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -169,22 +187,22 @@
     },
     {
       "id": "SjkzUCw9",
-      "x": 170.41,
-      "y": 5.98,
+      "x": 171.05,
+      "y": 6.83,
       "label": "NC_RFPhysicalActivityAwreness-Base-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "Xp08uYrT",
-      "x": 170.85,
-      "y": 11.02,
+      "x": 171.48,
+      "y": 11.87,
       "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "lw9B35Qq",
-      "x": 170.82,
-      "y": 17.06,
+      "x": 171.46,
+      "y": 17.91,
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -200,6 +218,16 @@
   ],
   "links": [],
   "subroutines": [
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Diseases generate a balance of 1",
+      "included_source_nodes": [
+        "7oLYZgvL",
+        "63ITFBLS",
+        "0aaSvIqn"
+      ]
+    },
     {
       "method": "generate_balance",
       "batch": false,
