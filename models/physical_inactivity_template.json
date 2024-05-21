@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "id": "xTYJjrqF",
+      "x": -128.87,
+      "y": -8.54,
+      "label": "RFInactivity-RR-Stroke"
+    },
+    {
+      "id": "oJDm2BkV",
+      "x": -130.73,
+      "y": 0.64,
+      "label": "RFInactivity-RR-IHD"
+    },
+    {
+      "id": "VGrxOADH",
+      "x": -129.57,
+      "y": 12.84,
+      "label": "RFInactivity-RR-Diabetes"
+    },
+    {
+      "id": "jkrahV63",
+      "x": -66.04,
+      "y": -2.39,
+      "label": "RFInactivity-RR-Stroke-ExcessRisk"
+    },
+    {
+      "id": "61vW3QZY",
+      "x": -64.88,
+      "y": 5.12,
+      "label": "RFInactivity-RR-IHD-ExcessRisk"
+    },
+    {
+      "id": "iwCohCC9",
+      "x": -63.22,
+      "y": 11.96,
+      "label": "RFInactivity-RR-Diabetes-ExcessRisk"
+    },
+    {
+      "id": "09k19mdp",
+      "x": 5,
+      "y": 0.07,
+      "label": "RFInactivity-Stroke-prev_rr"
+    },
+    {
+      "id": "BDzKbva4",
+      "x": 3.48,
+      "y": 5.75,
+      "label": "RFInactivity-IHD-prev_rr"
+    },
+    {
+      "id": "AQP2Hh22",
+      "x": 4.64,
+      "y": 12.42,
+      "label": "RFInactivity-Diabetes-prev_rr"
+    },
+    {
+      "id": "7oLYZgvL",
+      "x": -190.71,
+      "y": -22.54,
+      "label": "NC_RFStroke-PAF_Denom"
+    },
+    {
+      "id": "63ITFBLS",
+      "x": -192.39,
+      "y": 6.54,
+      "label": "NC_RFDiabetes-PAF_Denom"
+    },
+    {
+      "id": "0aaSvIqn",
+      "x": -184.38,
+      "y": 29.61,
+      "label": "NC_RFIschemicHeart-PAF_Denom"
+    },
+    {
+      "id": "931b9qHb",
+      "x": 76.99,
+      "y": -1.68,
+      "label": "RFInactivity-BasePrevalence"
+    },
+    {
+      "id": "bxgHRIO9",
+      "x": 74.64,
+      "y": 9.01,
+      "label": "RFInactivity-CalculatedPrevalence"
+    },
+    {
+      "id": "cgjghym1",
+      "x": 156.24,
+      "y": -31.31,
+      "label": "NC_RFPhysicalActivityAdvice-Base-Coverage"
+    },
+    {
+      "id": "w7UW9Tfq",
+      "x": 156.05,
+      "y": -25.13,
+      "label": "NC_RFPhysicalActivityAdvice-Target-Coverage"
+    },
+    {
+      "id": "m3p3kYqZ",
+      "x": 156.38,
+      "y": -18.12,
+      "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence"
+    },
+    {
+      "id": "SjkzUCw9",
+      "x": 173.59,
+      "y": -1.41,
+      "label": "NC_RFPhysicalActivityAwreness-Base-Coverage"
+    },
+    {
+      "id": "Xp08uYrT",
+      "x": 172.07,
+      "y": 4.93,
+      "label": "NC_RFPhysicalActivityAwreness-Target-Coverage"
+    },
+    {
+      "id": "lw9B35Qq",
+      "x": 171.72,
+      "y": 12.27,
+      "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence"
+    }
+  ],
+  "links": []
+}
