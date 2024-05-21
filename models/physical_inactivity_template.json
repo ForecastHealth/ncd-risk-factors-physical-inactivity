@@ -6,8 +6,8 @@
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -153.8,
-      "y": 26.65,
+      "x": -154.96,
+      "y": 12.71,
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
@@ -22,8 +22,8 @@
     },
     {
       "id": "oJDm2BkV",
-      "x": -155.56,
-      "y": 39.74,
+      "x": -156.71,
+      "y": 25.81,
       "label": "RFInactivity-RR-IHD",
       "color": "#06B4E1",
       "generate_array": {
@@ -38,8 +38,8 @@
     },
     {
       "id": "VGrxOADH",
-      "x": -151,
-      "y": 51.6,
+      "x": -152.16,
+      "y": 37.66,
       "label": "RFInactivity-RR-Diabetes",
       "color": "#06B4E1",
       "generate_array": {
@@ -54,8 +54,8 @@
     },
     {
       "id": "jkrahV63",
-      "x": -76.8,
-      "y": 26.24,
+      "x": -77.96,
+      "y": 12.31,
       "label": "RFInactivity-RR-Stroke-ExcessRisk",
       "color": "#06B4E1",
       "generate_array": {
@@ -67,8 +67,8 @@
     },
     {
       "id": "61vW3QZY",
-      "x": -78.67,
-      "y": 39.78,
+      "x": -79.82,
+      "y": 25.84,
       "label": "RFInactivity-RR-IHD-ExcessRisk",
       "color": "#06B4E1",
       "generate_array": {
@@ -80,8 +80,8 @@
     },
     {
       "id": "iwCohCC9",
-      "x": -73.9,
-      "y": 51.47,
+      "x": -75.05,
+      "y": 37.53,
       "label": "RFInactivity-RR-Diabetes-ExcessRisk",
       "color": "#06B4E1",
       "generate_array": {
@@ -93,29 +93,47 @@
     },
     {
       "id": "09k19mdp",
-      "x": 17.03,
-      "y": -30.35,
+      "x": 10.04,
+      "y": 12.16,
       "label": "RFInactivity-Stroke-prev_rr",
-      "color": "#06B4E1"
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "BDzKbva4",
-      "x": 19.83,
-      "y": -20.27,
+      "x": 9.58,
+      "y": 24.81,
       "label": "RFInactivity-IHD-prev_rr",
-      "color": "#06B4E1"
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "AQP2Hh22",
-      "x": 18.91,
-      "y": -7.03,
+      "x": 10.06,
+      "y": 37.81,
       "label": "RFInactivity-Diabetes-prev_rr",
-      "color": "#06B4E1"
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "7oLYZgvL",
-      "x": -197.85,
-      "y": -19.66,
+      "x": -199,
+      "y": -33.6,
       "label": "NC_RFStroke-PAF_Denom",
       "color": "#FFB255",
       "generate_array": {
@@ -127,8 +145,8 @@
     },
     {
       "id": "63ITFBLS",
-      "x": -197.19,
-      "y": -11.15,
+      "x": -198.34,
+      "y": -25.09,
       "label": "NC_RFDiabetes-PAF_Denom",
       "color": "#FFB255",
       "generate_array": {
@@ -140,8 +158,8 @@
     },
     {
       "id": "0aaSvIqn",
-      "x": -194.59,
-      "y": -2.08,
+      "x": -195.75,
+      "y": -16.01,
       "label": "NC_RFIschemicHeart-PAF_Denom",
       "color": "#FFB255",
       "generate_array": {
@@ -153,8 +171,8 @@
     },
     {
       "id": "931b9qHb",
-      "x": 88.58,
-      "y": -21.16,
+      "x": 99.09,
+      "y": 12.26,
       "label": "RFInactivity-BasePrevalence",
       "color": "#06B4E1",
       "generate_array": {
@@ -168,29 +186,29 @@
     },
     {
       "id": "bxgHRIO9",
-      "x": 87.5,
-      "y": -13.34,
+      "x": 120.39,
+      "y": 29.87,
       "label": "RFInactivity-CalculatedPrevalence",
       "color": "#06B4E1"
     },
     {
       "id": "cgjghym1",
-      "x": 171.52,
-      "y": -37.92,
+      "x": 170.37,
+      "y": -51.86,
       "label": "NC_RFPhysicalActivityAdvice-Base-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "w7UW9Tfq",
-      "x": 170.37,
-      "y": -32.4,
+      "x": 169.21,
+      "y": -46.34,
       "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "m3p3kYqZ",
-      "x": 170.36,
-      "y": -26.31,
+      "x": 169.21,
+      "y": -40.24,
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -205,22 +223,22 @@
     },
     {
       "id": "SjkzUCw9",
-      "x": 178.14,
-      "y": -9.98,
+      "x": 176.98,
+      "y": -23.92,
       "label": "NC_RFPhysicalActivityAwreness-Base-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "Xp08uYrT",
-      "x": 178.57,
-      "y": -4.94,
+      "x": 177.42,
+      "y": -18.88,
       "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
       "color": "#E5EF73"
     },
     {
       "id": "lw9B35Qq",
-      "x": 178.55,
-      "y": 1.1,
+      "x": 177.4,
+      "y": -12.83,
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -240,28 +258,124 @@
       "source": "xTYJjrqF",
       "target": "jkrahV63",
       "remove_value_from_source": false,
-      "value_to_target_operator": "add"
+      "value_to_target_operator": "add",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "oJueJAdB",
       "source": "oJDm2BkV",
       "target": "61vW3QZY",
       "remove_value_from_source": false,
-      "value_to_target_operator": "add"
+      "value_to_target_operator": "add",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "sdvaiYYl",
       "source": "VGrxOADH",
       "target": "iwCohCC9",
       "remove_value_from_source": false,
-      "value_to_target_operator": "add"
+      "value_to_target_operator": "add",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "dmc6H22n",
+      "source": "jkrahV63",
+      "target": "09k19mdp",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "SJdHwnAi",
+      "source": "61vW3QZY",
+      "target": "BDzKbva4",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "4ueJpeve",
+      "source": "iwCohCC9",
+      "target": "AQP2Hh22",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "PE0NwqXH",
+      "source": "931b9qHb",
+      "target": "09k19mdp",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "zaTao8MS",
+      "source": "931b9qHb",
+      "target": "BDzKbva4",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "9LLJpvzO",
+      "source": "931b9qHb",
+      "target": "AQP2Hh22",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     }
   ],
   "subroutines": [
     {
       "method": "generate_balance",
       "batch": false,
-      "narration": "Diseases generate a balance of 1",
+      "narration": "Disease PAFs generate a balance of 1",
       "included_source_nodes": [
         "7oLYZgvL",
         "63ITFBLS",
@@ -281,14 +395,38 @@
     {
       "method": "generate_balance",
       "batch": false,
-      "narration": "Constants are Generated",
+      "narration": "prev_rr are initialised with balance 1",
+      "included_source_nodes": [
+        "09k19mdp",
+        "BDzKbva4",
+        "AQP2Hh22"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Relative Risks are Retrieved",
       "included_source_nodes": [
         "xTYJjrqF",
         "oJDm2BkV",
-        "VGrxOADH",
-        "m3p3kYqZ",
-        "lw9B35Qq",
+        "VGrxOADH"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Prevalence is Retrieved",
+      "included_source_nodes": [
         "931b9qHb"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Intervention Impacts are Retrieved",
+      "included_source_nodes": [
+        "m3p3kYqZ",
+        "lw9B35Qq"
       ]
     },
     {
@@ -302,6 +440,19 @@
         "TyIxkdQE",
         "oJueJAdB",
         "sdvaiYYl"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "prev_rr (Prevalence * RR) is calculated by excess risk * prevalence",
+      "included_edges": [
+        "dmc6H22n",
+        "SJdHwnAi",
+        "4ueJpeve",
+        "PE0NwqXH",
+        "zaTao8MS",
+        "9LLJpvzO"
       ]
     }
   ]
