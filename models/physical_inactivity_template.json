@@ -578,12 +578,9 @@
       ]
     },
     {
-      "batch": false
-    },
-    {
       "method": "push_balance_to_edges",
       "batch": false,
-      "narration": "Excess Risk is Calculated by Addings relative risk to the excess risk nodes",
+      "narration": "Excess Risk is Calculated by adding relative risk to the excess risk nodes",
       "included_edges": [
         "TyIxkdQE",
         "oJueJAdB",
@@ -612,9 +609,6 @@
         "aqmzwdP1",
         "i1PDfq2Y"
       ]
-    },
-    {
-      "batch": false
     },
     {
       "method": "push_balance_to_edges",
