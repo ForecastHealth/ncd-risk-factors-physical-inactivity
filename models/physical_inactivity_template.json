@@ -1,125 +1,217 @@
 {
+  "runtime": {
+    "startYear": 2020,
+    "endYear": 2021
+  },
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -128.87,
-      "y": -8.54,
-      "label": "RFInactivity-RR-Stroke"
+      "x": -132.37,
+      "y": -12.21,
+      "label": "RFInactivity-RR-Stroke",
+      "color": "#06B4E1",
+      "generate_array": {
+        "data_fetcher_label": "fhdb",
+        "method": "risk_factor_relative_risk",
+        "parameters": {
+          "risk_factor": "NC_RFInactivity",
+          "disease": "NC_RFStroke",
+          "country": "AFG"
+        }
+      }
     },
     {
       "id": "oJDm2BkV",
-      "x": -130.73,
-      "y": 0.64,
-      "label": "RFInactivity-RR-IHD"
+      "x": -135.53,
+      "y": -0.51,
+      "label": "RFInactivity-RR-IHD",
+      "color": "#06B4E1",
+      "generate_array": {
+        "data_fetcher_label": "fhdb",
+        "method": "risk_factor_relative_risk",
+        "parameters": {
+          "risk_factor": "NC_RFInactivity",
+          "disease": "NC_RFIschemicHeart",
+          "country": "AFG"
+        }
+      }
     },
     {
       "id": "VGrxOADH",
-      "x": -129.57,
-      "y": 12.84,
-      "label": "RFInactivity-RR-Diabetes"
+      "x": -133.31,
+      "y": 14.85,
+      "label": "RFInactivity-RR-Diabetes",
+      "color": "#06B4E1",
+      "generate_array": {
+        "data_fetcher_label": "fhdb",
+        "method": "risk_factor_relative_risk",
+        "parameters": {
+          "risk_factor": "NC_RFInactivity",
+          "disease": "NC_RFDiabetes",
+          "country": "AFG"
+        }
+      }
     },
     {
       "id": "jkrahV63",
-      "x": -66.04,
-      "y": -2.39,
-      "label": "RFInactivity-RR-Stroke-ExcessRisk"
+      "x": -64,
+      "y": -13.54,
+      "label": "RFInactivity-RR-Stroke-ExcessRisk",
+      "color": "#06B4E1"
     },
     {
       "id": "61vW3QZY",
-      "x": -64.88,
-      "y": 5.12,
-      "label": "RFInactivity-RR-IHD-ExcessRisk"
+      "x": -64,
+      "y": -2.34,
+      "label": "RFInactivity-RR-IHD-ExcessRisk",
+      "color": "#06B4E1"
     },
     {
       "id": "iwCohCC9",
-      "x": -63.22,
-      "y": 11.96,
-      "label": "RFInactivity-RR-Diabetes-ExcessRisk"
+      "x": -65.06,
+      "y": 8.88,
+      "label": "RFInactivity-RR-Diabetes-ExcessRisk",
+      "color": "#06B4E1"
     },
     {
       "id": "09k19mdp",
-      "x": 5,
-      "y": 0.07,
-      "label": "RFInactivity-Stroke-prev_rr"
+      "x": 9.3,
+      "y": -14.39,
+      "label": "RFInactivity-Stroke-prev_rr",
+      "color": "#06B4E1"
     },
     {
       "id": "BDzKbva4",
-      "x": 3.48,
-      "y": 5.75,
-      "label": "RFInactivity-IHD-prev_rr"
+      "x": 12.1,
+      "y": -4.31,
+      "label": "RFInactivity-IHD-prev_rr",
+      "color": "#06B4E1"
     },
     {
       "id": "AQP2Hh22",
-      "x": 4.64,
-      "y": 12.42,
-      "label": "RFInactivity-Diabetes-prev_rr"
+      "x": 11.19,
+      "y": 8.93,
+      "label": "RFInactivity-Diabetes-prev_rr",
+      "color": "#06B4E1"
     },
     {
       "id": "7oLYZgvL",
-      "x": -190.71,
-      "y": -22.54,
-      "label": "NC_RFStroke-PAF_Denom"
+      "x": -200.39,
+      "y": -17.75,
+      "label": "NC_RFStroke-PAF_Denom",
+      "color": "#FFB255"
     },
     {
       "id": "63ITFBLS",
-      "x": -192.39,
-      "y": 6.54,
-      "label": "NC_RFDiabetes-PAF_Denom"
+      "x": -202.07,
+      "y": 11.33,
+      "label": "NC_RFDiabetes-PAF_Denom",
+      "color": "#FFB255"
     },
     {
       "id": "0aaSvIqn",
-      "x": -184.38,
-      "y": 29.61,
-      "label": "NC_RFIschemicHeart-PAF_Denom"
+      "x": -197.64,
+      "y": 38.3,
+      "label": "NC_RFIschemicHeart-PAF_Denom",
+      "color": "#FFB255"
     },
     {
       "id": "931b9qHb",
-      "x": 76.99,
-      "y": -1.68,
-      "label": "RFInactivity-BasePrevalence"
+      "x": 80.85,
+      "y": -5.19,
+      "label": "RFInactivity-BasePrevalence",
+      "color": "#06B4E1",
+      "generate_array": {
+        "data_fetcher_label": "fhdb",
+        "method": "risk_factor_prevalence",
+        "parameters": {
+          "risk_factor": "physical_inactivity",
+          "country": "AFG"
+        }
+      }
     },
     {
       "id": "bxgHRIO9",
-      "x": 74.64,
-      "y": 9.01,
-      "label": "RFInactivity-CalculatedPrevalence"
+      "x": 79.77,
+      "y": 2.63,
+      "label": "RFInactivity-CalculatedPrevalence",
+      "color": "#06B4E1"
     },
     {
       "id": "cgjghym1",
-      "x": 156.24,
-      "y": -31.31,
-      "label": "NC_RFPhysicalActivityAdvice-Base-Coverage"
+      "x": 163.8,
+      "y": -21.96,
+      "label": "NC_RFPhysicalActivityAdvice-Base-Coverage",
+      "color": "#E5EF73"
     },
     {
       "id": "w7UW9Tfq",
-      "x": 156.05,
-      "y": -25.13,
-      "label": "NC_RFPhysicalActivityAdvice-Target-Coverage"
+      "x": 162.64,
+      "y": -16.44,
+      "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
+      "color": "#E5EF73"
     },
     {
       "id": "m3p3kYqZ",
-      "x": 156.38,
-      "y": -18.12,
-      "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence"
+      "x": 162.64,
+      "y": -10.34,
+      "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
+      "color": "#E5EF73",
+      "generate_array": {
+        "data_fetcher_label": "fhdb",
+        "method": "risk_factor_intervention_impact",
+        "parameters": {
+          "risk_factor": "NC_RFInactivity",
+          "intervention": "NC_RFPhysicalActivityAdvice",
+          "level": 1
+        }
+      }
     },
     {
       "id": "SjkzUCw9",
-      "x": 173.59,
-      "y": -1.41,
-      "label": "NC_RFPhysicalActivityAwreness-Base-Coverage"
+      "x": 170.41,
+      "y": 5.98,
+      "label": "NC_RFPhysicalActivityAwreness-Base-Coverage",
+      "color": "#E5EF73"
     },
     {
       "id": "Xp08uYrT",
-      "x": 172.07,
-      "y": 4.93,
-      "label": "NC_RFPhysicalActivityAwreness-Target-Coverage"
+      "x": 170.85,
+      "y": 11.02,
+      "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
+      "color": "#E5EF73"
     },
     {
       "id": "lw9B35Qq",
-      "x": 171.72,
-      "y": 12.27,
-      "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence"
+      "x": 170.82,
+      "y": 17.06,
+      "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
+      "color": "#E5EF73",
+      "generate_array": {
+        "data_fetcher_label": "fhdb",
+        "method": "risk_factor_intervention_impact",
+        "parameters": {
+          "risk_factor": "NC_RFInactivity",
+          "intervention": "NC_RFPhysicalActivityAwreness",
+          "level": 1
+        }
+      }
     }
   ],
-  "links": []
+  "links": [],
+  "subroutines": [
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Constants are Generated",
+      "included_source_nodes": [
+        "xTYJjrqF",
+        "oJDm2BkV",
+        "VGrxOADH",
+        "m3p3kYqZ",
+        "lw9B35Qq",
+        "931b9qHb"
+      ]
+    }
+  ]
 }
