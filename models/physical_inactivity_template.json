@@ -6,8 +6,8 @@
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -217.86,
-      "y": -49.62,
+      "x": -140.22,
+      "y": 5.62,
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
@@ -21,41 +21,9 @@
       }
     },
     {
-      "id": "oJDm2BkV",
-      "x": -219.62,
-      "y": -20.9,
-      "label": "RFInactivity-RR-IHD",
-      "color": "#06B4E1",
-      "generate_array": {
-        "data_fetcher_label": "fhdb",
-        "method": "risk_factor_relative_risk",
-        "parameters": {
-          "risk_factor": "NC_RFInactivity",
-          "disease": "NC_RFIschemicHeart",
-          "country": "AFG"
-        }
-      }
-    },
-    {
-      "id": "VGrxOADH",
-      "x": -225.09,
-      "y": 6.35,
-      "label": "RFInactivity-RR-Diabetes",
-      "color": "#06B4E1",
-      "generate_array": {
-        "data_fetcher_label": "fhdb",
-        "method": "risk_factor_relative_risk",
-        "parameters": {
-          "risk_factor": "NC_RFInactivity",
-          "disease": "NC_RFDiabetes",
-          "country": "AFG"
-        }
-      }
-    },
-    {
       "id": "jkrahV63",
-      "x": -159.76,
-      "y": -49.32,
+      "x": -139.15,
+      "y": 37.05,
       "label": "RFInactivity-RR-Stroke-ExcessRisk",
       "color": "#06B4E1",
       "generate_array": {
@@ -66,35 +34,9 @@
       }
     },
     {
-      "id": "61vW3QZY",
-      "x": -162.79,
-      "y": -20.63,
-      "label": "RFInactivity-RR-IHD-ExcessRisk",
-      "color": "#06B4E1",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": -1
-        }
-      }
-    },
-    {
-      "id": "iwCohCC9",
-      "x": -162.68,
-      "y": 6.45,
-      "label": "RFInactivity-RR-Diabetes-ExcessRisk",
-      "color": "#06B4E1",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": -1
-        }
-      }
-    },
-    {
       "id": "09k19mdp",
-      "x": -85.29,
-      "y": -48.05,
+      "x": -204.13,
+      "y": 35.93,
       "label": "RFInactivity-Stroke-prev_rr",
       "color": "#06B4E1",
       "generate_array": {
@@ -105,62 +47,10 @@
       }
     },
     {
-      "id": "BDzKbva4",
-      "x": -85.22,
-      "y": -21.14,
-      "label": "RFInactivity-IHD-prev_rr",
-      "color": "#06B4E1",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "AQP2Hh22",
-      "x": -84.8,
-      "y": 5.57,
-      "label": "RFInactivity-Diabetes-prev_rr",
-      "color": "#06B4E1",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
       "id": "7oLYZgvL",
-      "x": -86.11,
-      "y": -33.44,
-      "label": "NC_RFStroke-PAF_Denom",
-      "color": "#FFB255",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "63ITFBLS",
-      "x": -86.18,
-      "y": 18.01,
-      "label": "NC_RFDiabetes-PAF_Denom",
-      "color": "#FFB255",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "0aaSvIqn",
-      "x": -86.16,
-      "y": -8.5,
-      "label": "NC_RFIschemicHeart-PAF_Denom",
+      "x": -186.67,
+      "y": 54.32,
+      "label": "NC_RFStroke-PAF_Denom_Baseline",
       "color": "#FFB255",
       "generate_array": {
         "method": "single_value",
@@ -171,8 +61,8 @@
     },
     {
       "id": "931b9qHb",
-      "x": 5.36,
-      "y": -12.53,
+      "x": -204.56,
+      "y": -26.26,
       "label": "RFInactivity-BaselinePrevalence",
       "color": "#06B4E1",
       "generate_array": {
@@ -186,23 +76,21 @@
     },
     {
       "id": "bxgHRIO9",
-      "x": 7.34,
-      "y": 2.53,
+      "x": -67.09,
+      "y": 6.89,
       "label": "RFInactivity-CurrentPrevalence",
       "color": "#06B4E1",
       "generate_array": {
-        "data_fetcher_label": "fhdb",
-        "method": "risk_factor_prevalence",
+        "method": "single_value",
         "parameters": {
-          "risk_factor": "physical_inactivity",
-          "country": "AFG"
+          "value": 0
         }
       }
     },
     {
       "id": "cgjghym1",
-      "x": 196.46,
-      "y": -22.56,
+      "x": 214.86,
+      "y": -48.38,
       "label": "NC_RFPhysicalActivityAdvice-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -214,8 +102,8 @@
     },
     {
       "id": "w7UW9Tfq",
-      "x": 287.89,
-      "y": -23,
+      "x": 203.5,
+      "y": -60.5,
       "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -227,8 +115,8 @@
     },
     {
       "id": "m3p3kYqZ",
-      "x": 114.94,
-      "y": -9.5,
+      "x": 93.58,
+      "y": -60.07,
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -243,8 +131,8 @@
     },
     {
       "id": "SjkzUCw9",
-      "x": 200.51,
-      "y": 20.25,
+      "x": 248.84,
+      "y": -23.2,
       "label": "NC_RFPhysicalActivityAwreness-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -256,8 +144,8 @@
     },
     {
       "id": "Xp08uYrT",
-      "x": 295.96,
-      "y": 19.9,
+      "x": 256.54,
+      "y": -14.09,
       "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -269,8 +157,8 @@
     },
     {
       "id": "lw9B35Qq",
-      "x": 130.63,
-      "y": 37.07,
+      "x": 129.52,
+      "y": -26.98,
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -285,8 +173,8 @@
     },
     {
       "id": "NiizWCmF",
-      "x": -159.51,
-      "y": 26.25,
+      "x": -246.98,
+      "y": 67.39,
       "label": "NC_RFStroke-PAF-baseline",
       "color": "#FFB255",
       "generate_array": {
@@ -297,36 +185,9 @@
       }
     },
     {
-      "id": "AQERp4Zk",
-      "x": -122.78,
-      "y": 51.97,
-      "label": "NC_RFDiabetes-PAF-baseline",
-      "color": "#FFB255",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      },
-      "collapsed": true
-    },
-    {
-      "id": "FhzpOUVX",
-      "x": -142.21,
-      "y": 38.46,
-      "label": "NC_RFIschemicHeart-PAF-baseline",
-      "color": "#FFB255",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
       "id": "6Cs8lekd",
-      "x": 237.19,
-      "y": -8.14,
+      "x": 96.96,
+      "y": -50.76,
       "label": "NC_RFPhysicalActivityAdvice-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -338,8 +199,8 @@
     },
     {
       "id": "QsAfkPSa",
-      "x": 244.66,
-      "y": 36.74,
+      "x": 130.64,
+      "y": -18.48,
       "label": "NC_RFPhysicalActivityAwreness-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -351,8 +212,8 @@
     },
     {
       "id": "oWAZOadw",
-      "x": 188.48,
-      "y": 53.08,
+      "x": 40.97,
+      "y": -5.72,
       "label": "NC_RFPhysicalActivityAwreness-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -364,8 +225,8 @@
     },
     {
       "id": "nDuxJ9li",
-      "x": 176.63,
-      "y": 4.69,
+      "x": 16.86,
+      "y": -35.65,
       "label": "NC_RFPhysicalActivityAdvice-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -374,6 +235,33 @@
           "value": 1
         }
       }
+    },
+    {
+      "id": "JAhnFR7Z",
+      "x": -66,
+      "y": 37.36,
+      "label": "RFInactivity-Stroke-prev_rr",
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "yBQ8T1pH",
+      "x": -126.7,
+      "y": 70.09,
+      "label": "NC_RFStroke-PAF-target",
+      "color": "#FFB255"
+    },
+    {
+      "id": "oDM01EHS",
+      "x": -50.78,
+      "y": 55.44,
+      "label": "NC_RFStroke-PAF_Denom_Baseline",
+      "color": "#FFB255"
     }
   ],
   "links": [
@@ -381,32 +269,6 @@
       "id": "TyIxkdQE",
       "source": "xTYJjrqF",
       "target": "jkrahV63",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "add",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "oJueJAdB",
-      "source": "oJDm2BkV",
-      "target": "61vW3QZY",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "add",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "sdvaiYYl",
-      "source": "VGrxOADH",
-      "target": "iwCohCC9",
       "remove_value_from_source": false,
       "value_to_target_operator": "add",
       "generate_array": {
@@ -430,32 +292,6 @@
       }
     },
     {
-      "id": "SJdHwnAi",
-      "source": "61vW3QZY",
-      "target": "BDzKbva4",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "4ueJpeve",
-      "source": "iwCohCC9",
-      "target": "AQP2Hh22",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
       "id": "PE0NwqXH",
       "source": "931b9qHb",
       "target": "09k19mdp",
@@ -469,47 +305,9 @@
       }
     },
     {
-      "id": "zaTao8MS",
-      "source": "931b9qHb",
-      "target": "BDzKbva4",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "9LLJpvzO",
-      "source": "931b9qHb",
-      "target": "AQP2Hh22",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
       "id": "sHvgT6XF",
       "source": "09k19mdp",
       "target": "7oLYZgvL",
-      "value_to_target_operator": "add"
-    },
-    {
-      "id": "aqmzwdP1",
-      "source": "BDzKbva4",
-      "target": "0aaSvIqn",
-      "value_to_target_operator": "add"
-    },
-    {
-      "id": "i1PDfq2Y",
-      "source": "AQP2Hh22",
-      "target": "63ITFBLS",
       "value_to_target_operator": "add"
     },
     {
@@ -529,64 +327,6 @@
       "id": "tFWd5rEB",
       "source": "7oLYZgvL",
       "target": "NiizWCmF",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      },
-      "postprocessing": {
-        "reciprocal": true
-      }
-    },
-    {
-      "id": "3MXbG8ob",
-      "source": "BDzKbva4",
-      "target": "FhzpOUVX",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "YhfJZnFb",
-      "source": "0aaSvIqn",
-      "target": "FhzpOUVX",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      },
-      "postprocessing": {
-        "reciprocal": true
-      }
-    },
-    {
-      "id": "ZEbGvkEF",
-      "source": "AQP2Hh22",
-      "target": "AQERp4Zk",
-      "remove_value_from_source": false,
-      "value_to_target_operator": "multiply",
-      "generate_array": {
-        "method": "single_value",
-        "parameters": {
-          "value": 1
-        }
-      }
-    },
-    {
-      "id": "0TMuiy6X",
-      "source": "63ITFBLS",
-      "target": "AQERp4Zk",
       "remove_value_from_source": false,
       "value_to_target_operator": "multiply",
       "generate_array": {
@@ -708,6 +448,80 @@
           "value": 1
         }
       }
+    },
+    {
+      "id": "g7amh2Pm",
+      "source": "nDuxJ9li",
+      "target": "bxgHRIO9",
+      "remove_value_from_source": false,
+      "postprocessing": {
+        "inverse": true
+      },
+      "value_to_target_operator": "multiply"
+    },
+    {
+      "id": "PkGAtfYT",
+      "source": "oWAZOadw",
+      "target": "bxgHRIO9",
+      "remove_value_from_source": false,
+      "postprocessing": {
+        "inverse": true
+      },
+      "value_to_target_operator": "multiply"
+    },
+    {
+      "id": "SpfcorQF",
+      "source": "jkrahV63",
+      "target": "JAhnFR7Z",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "ajHhdowQ",
+      "source": "bxgHRIO9",
+      "target": "JAhnFR7Z",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "DbpyR8b9",
+      "source": "JAhnFR7Z",
+      "target": "yBQ8T1pH",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "Pw7vsQmE",
+      "source": "JAhnFR7Z",
+      "target": "oDM01EHS"
+    },
+    {
+      "id": "u1IsN1uB",
+      "source": "oDM01EHS",
+      "target": "yBQ8T1pH"
+    },
+    {
+      "id": "0Rd7B6O9",
+      "source": "931b9qHb",
+      "target": "bxgHRIO9"
     }
   ],
   "subroutines": [
@@ -858,6 +672,15 @@
         "FDNajB71",
         "iyHqovoy",
         "OfGYkGvJ"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current Prevalence is updated based on marginal impact",
+      "included_edges": [
+        "g7amh2Pm",
+        "PkGAtfYT"
       ]
     }
   ]
