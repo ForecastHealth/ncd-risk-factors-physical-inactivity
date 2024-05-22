@@ -273,6 +273,12 @@
       "y": 93.03,
       "label": "NC_RFStroke-PAF-Current",
       "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
       "flush": true
     },
     {
@@ -281,6 +287,12 @@
       "y": 78.05,
       "label": "NC_RFStroke-PAF_Denom_Current",
       "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
       "flush": true
     },
     {
