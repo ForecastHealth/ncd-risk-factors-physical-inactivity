@@ -6,8 +6,8 @@
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -140.22,
-      "y": 5.62,
+      "x": -48.97,
+      "y": 18.02,
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
@@ -22,8 +22,8 @@
     },
     {
       "id": "jkrahV63",
-      "x": -139.15,
-      "y": 37.05,
+      "x": -48.62,
+      "y": 36.07,
       "label": "RFInactivity-RR-Stroke-ExcessRisk",
       "color": "#06B4E1",
       "generate_array": {
@@ -35,9 +35,9 @@
     },
     {
       "id": "09k19mdp",
-      "x": -204.13,
-      "y": 35.93,
-      "label": "RFInactivity-Stroke-prev_rr",
+      "x": -153.18,
+      "y": 61.45,
+      "label": "RFInactivity-Stroke-prev_rr_baseline",
       "color": "#06B4E1",
       "generate_array": {
         "method": "single_value",
@@ -48,8 +48,8 @@
     },
     {
       "id": "7oLYZgvL",
-      "x": -186.67,
-      "y": 54.32,
+      "x": -81.65,
+      "y": 77.41,
       "label": "NC_RFStroke-PAF_Denom_Baseline",
       "color": "#FFB255",
       "generate_array": {
@@ -61,10 +61,10 @@
     },
     {
       "id": "931b9qHb",
-      "x": -204.56,
-      "y": -26.26,
+      "x": -154.73,
+      "y": -11.68,
       "label": "RFInactivity-BaselinePrevalence",
-      "color": "#06B4E1",
+      "color": "#06B5E1",
       "generate_array": {
         "data_fetcher_label": "fhdb",
         "method": "risk_factor_prevalence",
@@ -76,8 +76,8 @@
     },
     {
       "id": "bxgHRIO9",
-      "x": -67.09,
-      "y": 6.89,
+      "x": 48.72,
+      "y": 21.27,
       "label": "RFInactivity-CurrentPrevalence",
       "color": "#06B4E1",
       "generate_array": {
@@ -89,8 +89,8 @@
     },
     {
       "id": "cgjghym1",
-      "x": 214.86,
-      "y": -48.38,
+      "x": 0.74,
+      "y": -87.68,
       "label": "NC_RFPhysicalActivityAdvice-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -102,8 +102,8 @@
     },
     {
       "id": "w7UW9Tfq",
-      "x": 203.5,
-      "y": -60.5,
+      "x": 0.47,
+      "y": -92.3,
       "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -115,8 +115,8 @@
     },
     {
       "id": "m3p3kYqZ",
-      "x": 93.58,
-      "y": -60.07,
+      "x": -40.15,
+      "y": -56.48,
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -131,8 +131,8 @@
     },
     {
       "id": "SjkzUCw9",
-      "x": 248.84,
-      "y": -23.2,
+      "x": 106.11,
+      "y": -84.7,
       "label": "NC_RFPhysicalActivityAwreness-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -144,8 +144,8 @@
     },
     {
       "id": "Xp08uYrT",
-      "x": 256.54,
-      "y": -14.09,
+      "x": 106.9,
+      "y": -89.98,
       "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -157,8 +157,8 @@
     },
     {
       "id": "lw9B35Qq",
-      "x": 129.52,
-      "y": -26.98,
+      "x": 156.26,
+      "y": -53.08,
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -173,8 +173,8 @@
     },
     {
       "id": "NiizWCmF",
-      "x": -246.98,
-      "y": 67.39,
+      "x": -152.77,
+      "y": 95.79,
       "label": "NC_RFStroke-PAF-baseline",
       "color": "#FFB255",
       "generate_array": {
@@ -186,8 +186,8 @@
     },
     {
       "id": "6Cs8lekd",
-      "x": 96.96,
-      "y": -50.76,
+      "x": 0.11,
+      "y": -75.36,
       "label": "NC_RFPhysicalActivityAdvice-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -199,8 +199,8 @@
     },
     {
       "id": "QsAfkPSa",
-      "x": 130.64,
-      "y": -18.48,
+      "x": 105.79,
+      "y": -74.27,
       "label": "NC_RFPhysicalActivityAwreness-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -212,8 +212,8 @@
     },
     {
       "id": "oWAZOadw",
-      "x": 40.97,
-      "y": -5.72,
+      "x": 106.69,
+      "y": -21.32,
       "label": "NC_RFPhysicalActivityAwreness-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -225,8 +225,8 @@
     },
     {
       "id": "nDuxJ9li",
-      "x": 16.86,
-      "y": -35.65,
+      "x": -1.4,
+      "y": -20.96,
       "label": "NC_RFPhysicalActivityAdvice-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -238,9 +238,9 @@
     },
     {
       "id": "JAhnFR7Z",
-      "x": -66,
-      "y": 37.36,
-      "label": "RFInactivity-Stroke-prev_rr",
+      "x": 49.4,
+      "y": 58.81,
+      "label": "RFInactivity-Stroke-prev_rr_current",
       "color": "#06B4E1",
       "generate_array": {
         "method": "single_value",
@@ -251,17 +251,30 @@
     },
     {
       "id": "yBQ8T1pH",
-      "x": -126.7,
-      "y": 70.09,
-      "label": "NC_RFStroke-PAF-target",
+      "x": 49.8,
+      "y": 93.03,
+      "label": "NC_RFStroke-PAF-Current",
       "color": "#FFB255"
     },
     {
       "id": "oDM01EHS",
-      "x": -50.78,
-      "y": 55.44,
-      "label": "NC_RFStroke-PAF_Denom_Baseline",
+      "x": -6.47,
+      "y": 78.05,
+      "label": "NC_RFStroke-PAF_Denom_Current",
       "color": "#FFB255"
+    },
+    {
+      "id": "wVfBenHP",
+      "x": -43.05,
+      "y": 127.91,
+      "label": "NC_RFStroke-PAF-Marginal",
+      "color": "#FFB255",
+      "generate_balance": {
+        "method": "single_value",
+        "parameters": {
+          "value": -1
+        }
+      }
     }
   ],
   "links": [
@@ -308,7 +321,8 @@
       "id": "sHvgT6XF",
       "source": "09k19mdp",
       "target": "7oLYZgvL",
-      "value_to_target_operator": "add"
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false
     },
     {
       "id": "Yvn8dL24",
@@ -511,17 +525,39 @@
     {
       "id": "Pw7vsQmE",
       "source": "JAhnFR7Z",
-      "target": "oDM01EHS"
+      "target": "oDM01EHS",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false
     },
     {
       "id": "u1IsN1uB",
       "source": "oDM01EHS",
-      "target": "yBQ8T1pH"
+      "target": "yBQ8T1pH",
+      "remove_value_from_source": false
     },
     {
       "id": "0Rd7B6O9",
       "source": "931b9qHb",
-      "target": "bxgHRIO9"
+      "target": "bxgHRIO9",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "add"
+    },
+    {
+      "id": "dIYao6aU",
+      "source": "NiizWCmF",
+      "target": "wVfBenHP",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "postprocessing": {
+        "inverse": true
+      }
+    },
+    {
+      "id": "YInSn5CE",
+      "source": "yBQ8T1pH",
+      "target": "wVfBenHP",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false
     }
   ],
   "subroutines": [
@@ -531,11 +567,10 @@
       "narration": "Disease PAFs and PAF_Denoms generate a balance of 1",
       "included_source_nodes": [
         "7oLYZgvL",
-        "63ITFBLS",
-        "0aaSvIqn",
         "NiizWCmF",
-        "AQERp4Zk",
-        "FhzpOUVX"
+        "oDM01EHS",
+        "yBQ8T1pH",
+        "wVfBenHP"
       ]
     },
     {
@@ -543,9 +578,7 @@
       "batch": false,
       "narration": "Excess Risk are initialised with a balance of -1",
       "included_source_nodes": [
-        "jkrahV63",
-        "61vW3QZY",
-        "iwCohCC9"
+        "jkrahV63"
       ]
     },
     {
@@ -554,33 +587,29 @@
       "narration": "prev_rr are initialised with balance 1",
       "included_source_nodes": [
         "09k19mdp",
-        "BDzKbva4",
-        "AQP2Hh22"
+        "JAhnFR7Z"
       ]
     },
     {
       "method": "generate_balance",
       "batch": false,
-      "narration": "Relative Risks are Retrieved",
+      "narration": "Relative Risks are fetched",
       "included_source_nodes": [
-        "xTYJjrqF",
-        "oJDm2BkV",
-        "VGrxOADH"
+        "xTYJjrqF"
       ]
     },
     {
       "method": "generate_balance",
       "batch": false,
-      "narration": "Prevalence is Retrieved",
+      "narration": "Baseline prevalence is fetched",
       "included_source_nodes": [
-        "931b9qHb",
-        "bxgHRIO9"
+        "931b9qHb"
       ]
     },
     {
       "method": "generate_balance",
       "batch": false,
-      "narration": "Intervention Impacts are Retrieved",
+      "narration": "Intervention Impacts are fetched",
       "included_source_nodes": [
         "m3p3kYqZ",
         "lw9B35Qq"
@@ -611,22 +640,16 @@
       "batch": false,
       "narration": "Excess Risk is Calculated by adding relative risk to the excess risk nodes",
       "included_edges": [
-        "TyIxkdQE",
-        "oJueJAdB",
-        "sdvaiYYl"
+        "TyIxkdQE"
       ]
     },
     {
       "method": "push_balance_to_edges",
       "batch": false,
-      "narration": "prev_rr (Prevalence * RR) is calculated by excess risk * prevalence",
+      "narration": "baseline prev_rr (Prevalence * RR) is calculated by excess risk * prevalence",
       "included_edges": [
         "dmc6H22n",
-        "SJdHwnAi",
-        "4ueJpeve",
-        "PE0NwqXH",
-        "zaTao8MS",
-        "9LLJpvzO"
+        "PE0NwqXH"
       ]
     },
     {
@@ -634,9 +657,7 @@
       "batch": false,
       "narration": "PAF Denoms are calculated by adding prev_rrs",
       "included_edges": [
-        "sHvgT6XF",
-        "aqmzwdP1",
-        "i1PDfq2Y"
+        "sHvgT6XF"
       ]
     },
     {
@@ -645,11 +666,15 @@
       "narration": "PAF-baseline are calculated by prev_rr / PAF_Denom",
       "included_edges": [
         "Yvn8dL24",
-        "tFWd5rEB",
-        "3MXbG8ob",
-        "YhfJZnFb",
-        "ZEbGvkEF",
-        "0TMuiy6X"
+        "tFWd5rEB"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current Prevalence is Initialised by passing value from Baseline Prevalence",
+      "included_edges": [
+        "0Rd7B6O9"
       ]
     },
     {
@@ -681,6 +706,41 @@
       "included_edges": [
         "g7amh2Pm",
         "PkGAtfYT"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current prev_rr (Prevalence * RR) is calculated by excess risk * prevalence",
+      "included_edges": [
+        "SpfcorQF",
+        "ajHhdowQ"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current PAF Denoms are calculated by adding prev_rrs",
+      "included_edges": [
+        "Pw7vsQmE"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "PAF-baseline are calculated by prev_rr / PAF_Denom",
+      "included_edges": [
+        "DbpyR8b9",
+        "u1IsN1uB"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Marginal PAF is calculated by Baseline PAF minus Current PAF",
+      "included_edges": [
+        "dIYao6aU",
+        "YInSn5CE"
       ]
     }
   ]
