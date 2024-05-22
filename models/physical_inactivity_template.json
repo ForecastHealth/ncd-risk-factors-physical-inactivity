@@ -304,7 +304,7 @@
       "generate_balance": {
         "method": "single_value",
         "parameters": {
-          "value": -1
+          "value": 0
         }
       },
       "flush": true
