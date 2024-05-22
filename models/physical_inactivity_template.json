@@ -355,7 +355,13 @@
       "source": "09k19mdp",
       "target": "7oLYZgvL",
       "value_to_target_operator": "add",
-      "remove_value_from_source": false
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "Yvn8dL24",
@@ -560,13 +566,25 @@
       "source": "JAhnFR7Z",
       "target": "oDM01EHS",
       "value_to_target_operator": "add",
-      "remove_value_from_source": false
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "u1IsN1uB",
       "source": "oDM01EHS",
       "target": "yBQ8T1pH",
-      "remove_value_from_source": false
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "0Rd7B6O9",
@@ -581,6 +599,12 @@
       "target": "wVfBenHP",
       "value_to_target_operator": "add",
       "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
       "postprocessing": {
         "inverse": true
       }
@@ -590,7 +614,13 @@
       "source": "yBQ8T1pH",
       "target": "wVfBenHP",
       "value_to_target_operator": "add",
-      "remove_value_from_source": false
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     }
   ],
   "subroutines": [
