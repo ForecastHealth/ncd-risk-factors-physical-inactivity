@@ -6,25 +6,22 @@
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -48.97,
-      "y": 18.02,
+      "x": -48.33,
+      "y": 22,
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
-        "data_fetcher_label": "fhdb",
-        "method": "risk_factor_relative_risk",
+        "method": "single_value",
         "parameters": {
-          "risk_factor": "NC_RFInactivity",
-          "disease": "NC_RFStroke",
-          "country": "AFG"
+          "value": 1.19
         }
       },
       "flush": true
     },
     {
       "id": "jkrahV63",
-      "x": -48.62,
-      "y": 36.07,
+      "x": -47.99,
+      "y": 40.05,
       "label": "RFInactivity-RR-Stroke-ExcessRisk",
       "color": "#06B4E1",
       "generate_array": {
@@ -37,8 +34,8 @@
     },
     {
       "id": "09k19mdp",
-      "x": -153.18,
-      "y": 61.45,
+      "x": -152.54,
+      "y": 65.43,
       "label": "RFInactivity-Stroke-prev_rr_baseline",
       "color": "#06B4E1",
       "generate_array": {
@@ -51,8 +48,8 @@
     },
     {
       "id": "7oLYZgvL",
-      "x": -81.65,
-      "y": 77.41,
+      "x": -81.02,
+      "y": 81.39,
       "label": "NC_RFStroke-PAF_Denom_Baseline",
       "color": "#FFB255",
       "generate_array": {
@@ -65,8 +62,8 @@
     },
     {
       "id": "931b9qHb",
-      "x": -154.73,
-      "y": -11.68,
+      "x": -154.1,
+      "y": -7.69,
       "label": "RFInactivity-BaselinePrevalence",
       "color": "#06B5E1",
       "generate_array": {
@@ -81,8 +78,8 @@
     },
     {
       "id": "bxgHRIO9",
-      "x": 48.72,
-      "y": 21.27,
+      "x": 49.35,
+      "y": 25.26,
       "label": "RFInactivity-CurrentPrevalence",
       "color": "#06B4E1",
       "generate_array": {
@@ -95,22 +92,22 @@
     },
     {
       "id": "cgjghym1",
-      "x": 0.74,
-      "y": -87.68,
+      "x": 4.14,
+      "y": -116.23,
       "label": "NC_RFPhysicalActivityAdvice-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
         "method": "single_value",
         "parameters": {
-          "value": 1
+          "value": -1
         }
       },
       "flush": true
     },
     {
       "id": "w7UW9Tfq",
-      "x": 0.47,
-      "y": -92.3,
+      "x": -33.34,
+      "y": -103.92,
       "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -123,39 +120,36 @@
     },
     {
       "id": "m3p3kYqZ",
-      "x": -40.15,
-      "y": -56.48,
+      "x": -55.65,
+      "y": -45.64,
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
-        "data_fetcher_label": "fhdb",
-        "method": "risk_factor_intervention_impact",
+        "method": "single_value",
         "parameters": {
-          "risk_factor": "NC_RFInactivity",
-          "intervention": "NC_RFPhysicalActivityAdvice",
-          "level": 1
+          "value": 0.15
         }
       },
       "flush": true
     },
     {
       "id": "SjkzUCw9",
-      "x": 106.11,
-      "y": -84.7,
+      "x": 116.3,
+      "y": -113.71,
       "label": "NC_RFPhysicalActivityAwreness-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
         "method": "single_value",
         "parameters": {
-          "value": 1
+          "value": -1
         }
       },
       "flush": true
     },
     {
       "id": "Xp08uYrT",
-      "x": 106.9,
-      "y": -89.98,
+      "x": 89.92,
+      "y": -98.75,
       "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -168,25 +162,22 @@
     },
     {
       "id": "lw9B35Qq",
-      "x": 156.26,
-      "y": -53.08,
+      "x": 156.89,
+      "y": -47.9,
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
-        "data_fetcher_label": "fhdb",
-        "method": "risk_factor_intervention_impact",
+        "method": "single_value",
         "parameters": {
-          "risk_factor": "NC_RFInactivity",
-          "intervention": "NC_RFPhysicalActivityAwreness",
-          "level": 1
+          "value": 0.05
         }
       },
       "flush": true
     },
     {
       "id": "NiizWCmF",
-      "x": -152.77,
-      "y": 95.79,
+      "x": -152.14,
+      "y": 99.77,
       "label": "NC_RFStroke-PAF-baseline",
       "color": "#FFB255",
       "generate_array": {
@@ -199,36 +190,36 @@
     },
     {
       "id": "6Cs8lekd",
-      "x": 0.11,
-      "y": -75.36,
+      "x": -1.66,
+      "y": -68.68,
       "label": "NC_RFPhysicalActivityAdvice-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
         "method": "single_value",
         "parameters": {
-          "value": 1
+          "value": 0
         }
       },
       "flush": true
     },
     {
       "id": "QsAfkPSa",
-      "x": 105.79,
-      "y": -74.27,
+      "x": 105.52,
+      "y": -68.79,
       "label": "NC_RFPhysicalActivityAwreness-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
         "method": "single_value",
         "parameters": {
-          "value": 1
+          "value": 0
         }
       },
       "flush": true
     },
     {
       "id": "oWAZOadw",
-      "x": 106.69,
-      "y": -21.32,
+      "x": 107.32,
+      "y": -17.34,
       "label": "NC_RFPhysicalActivityAwreness-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -241,8 +232,8 @@
     },
     {
       "id": "nDuxJ9li",
-      "x": -1.4,
-      "y": -20.96,
+      "x": -0.77,
+      "y": -16.97,
       "label": "NC_RFPhysicalActivityAdvice-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -255,8 +246,8 @@
     },
     {
       "id": "JAhnFR7Z",
-      "x": 49.4,
-      "y": 58.81,
+      "x": 50.03,
+      "y": 62.8,
       "label": "RFInactivity-Stroke-prev_rr_current",
       "color": "#06B4E1",
       "generate_array": {
@@ -269,8 +260,8 @@
     },
     {
       "id": "yBQ8T1pH",
-      "x": 49.8,
-      "y": 93.03,
+      "x": 50.43,
+      "y": 97.02,
       "label": "NC_RFStroke-PAF-Current",
       "color": "#FFB255",
       "generate_array": {
@@ -283,8 +274,8 @@
     },
     {
       "id": "oDM01EHS",
-      "x": -6.47,
-      "y": 78.05,
+      "x": -5.84,
+      "y": 82.03,
       "label": "NC_RFStroke-PAF_Denom_Current",
       "color": "#FFB255",
       "generate_array": {
@@ -297,11 +288,25 @@
     },
     {
       "id": "wVfBenHP",
-      "x": -43.05,
-      "y": 127.91,
+      "x": -45.46,
+      "y": 123.49,
       "label": "NC_RFStroke-PAF-Marginal",
       "color": "#FFB255",
-      "generate_balance": {
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 0
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "zYXUZira",
+      "x": 48.94,
+      "y": 6.38,
+      "label": "Summed_Marginal_Impacts",
+      "color": "#E5EF73",
+      "generate_array": {
         "method": "single_value",
         "parameters": {
           "value": 0
@@ -396,9 +401,6 @@
       "id": "d6ag84Vo",
       "source": "SjkzUCw9",
       "target": "QsAfkPSa",
-      "postprocessing": {
-        "inverse": true
-      },
       "value_to_target_operator": "add",
       "remove_value_from_source": false,
       "generate_array": {
@@ -426,9 +428,6 @@
       "source": "cgjghym1",
       "target": "6Cs8lekd",
       "value_to_target_operator": "add",
-      "postprocessing": {
-        "inverse": true
-      },
       "remove_value_from_source": false,
       "generate_array": {
         "method": "single_value",
@@ -503,18 +502,8 @@
       }
     },
     {
-      "id": "g7amh2Pm",
-      "source": "nDuxJ9li",
-      "target": "bxgHRIO9",
-      "remove_value_from_source": false,
-      "postprocessing": {
-        "inverse": true
-      },
-      "value_to_target_operator": "multiply"
-    },
-    {
       "id": "PkGAtfYT",
-      "source": "oWAZOadw",
+      "source": "zYXUZira",
       "target": "bxgHRIO9",
       "remove_value_from_source": false,
       "postprocessing": {
@@ -591,7 +580,13 @@
       "source": "931b9qHb",
       "target": "bxgHRIO9",
       "remove_value_from_source": false,
-      "value_to_target_operator": "add"
+      "value_to_target_operator": "add",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
     },
     {
       "id": "dIYao6aU",
@@ -613,6 +608,32 @@
       "id": "YInSn5CE",
       "source": "yBQ8T1pH",
       "target": "wVfBenHP",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "i2L62VFR",
+      "source": "nDuxJ9li",
+      "target": "zYXUZira",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "uPNpjfHZ",
+      "source": "oWAZOadw",
+      "target": "zYXUZira",
       "value_to_target_operator": "add",
       "remove_value_from_source": false,
       "generate_array": {
@@ -664,9 +685,10 @@
     {
       "method": "generate_balance",
       "batch": false,
-      "narration": "Baseline prevalence is fetched",
+      "narration": "Baseline prevalence is fetched, Current prevalence is initiatialised",
       "included_source_nodes": [
-        "931b9qHb"
+        "931b9qHb",
+        "bxgHRIO9"
       ]
     },
     {
@@ -765,9 +787,17 @@
     {
       "method": "push_balance_to_edges",
       "batch": false,
+      "narration": "Marginal Impacts are Summed",
+      "included_edges": [
+        "i2L62VFR",
+        "uPNpjfHZ"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
       "narration": "Current Prevalence is updated based on marginal impact",
       "included_edges": [
-        "g7amh2Pm",
         "PkGAtfYT"
       ]
     },
