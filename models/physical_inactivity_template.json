@@ -18,7 +18,8 @@
           "disease": "NC_RFStroke",
           "country": "AFG"
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "jkrahV63",
@@ -31,7 +32,8 @@
         "parameters": {
           "value": -1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "09k19mdp",
@@ -44,7 +46,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "7oLYZgvL",
@@ -57,7 +60,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "931b9qHb",
@@ -72,7 +76,8 @@
           "risk_factor": "physical_inactivity",
           "country": "AFG"
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "bxgHRIO9",
@@ -85,7 +90,8 @@
         "parameters": {
           "value": 0
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "cgjghym1",
@@ -98,7 +104,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "w7UW9Tfq",
@@ -111,7 +118,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "m3p3kYqZ",
@@ -127,7 +135,8 @@
           "intervention": "NC_RFPhysicalActivityAdvice",
           "level": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "SjkzUCw9",
@@ -140,7 +149,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "Xp08uYrT",
@@ -153,7 +163,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "lw9B35Qq",
@@ -169,7 +180,8 @@
           "intervention": "NC_RFPhysicalActivityAwreness",
           "level": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "NiizWCmF",
@@ -182,7 +194,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "6Cs8lekd",
@@ -195,7 +208,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "QsAfkPSa",
@@ -208,7 +222,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "oWAZOadw",
@@ -221,7 +236,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "nDuxJ9li",
@@ -234,7 +250,8 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "JAhnFR7Z",
@@ -247,21 +264,24 @@
         "parameters": {
           "value": 1
         }
-      }
+      },
+      "flush": true
     },
     {
       "id": "yBQ8T1pH",
       "x": 49.8,
       "y": 93.03,
       "label": "NC_RFStroke-PAF-Current",
-      "color": "#FFB255"
+      "color": "#FFB255",
+      "flush": true
     },
     {
       "id": "oDM01EHS",
       "x": -6.47,
       "y": 78.05,
       "label": "NC_RFStroke-PAF_Denom_Current",
-      "color": "#FFB255"
+      "color": "#FFB255",
+      "flush": true
     },
     {
       "id": "wVfBenHP",
@@ -274,7 +294,8 @@
         "parameters": {
           "value": -1
         }
-      }
+      },
+      "flush": true
     }
   ],
   "links": [
@@ -742,6 +763,11 @@
         "dIYao6aU",
         "YInSn5CE"
       ]
+    },
+    {
+      "method": "flush",
+      "batch": false,
+      "narration": "Flush nodes"
     }
   ]
 }
