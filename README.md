@@ -5,3 +5,9 @@ After this, the risk factor, and its interventions, can be modified as new relea
 
 # Data sources
 - Physical Inactivity: GBD_Country_Data -> PIA_Guthold_2018
+
+# Intervention Mapping
+## P1 Provide physical activity assessment, counselling, and behaviour change support as part of routine primary health care services through the use of a brief intervention
+- Brief advice as part of routine care 95%
+## P2 Implement sustained, population wide, best practice communication campaigns to promote physical activity, with links to community-based programmes and environmental improvements to enable and support behaviour change.
+- Awareness campaigns to encourage increased physical activity 95%
