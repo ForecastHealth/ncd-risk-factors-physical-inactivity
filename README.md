@@ -1,10 +1,13 @@
-# ncd-risk-factors-mean-blood-pressure
+# NCD Risk Factor: Physical Inactivity
 
-The original intention of this repository is to provide a translation of the risk factor `FOO` from Spectrum.
+The original intention of this repository is to provide a translation of the risk factor `NC_RFInactivity` from Spectrum.
 After this, the risk factor, and its interventions, can be modified as new releases of the model(s).
 
-# Data sources
-- Physical Inactivity: GBD_Country_Data -> PIA_Guthold_2018
+## Data sources
+- TYPE_OF_DATA: FILEPATH_OF_EXCEL_WORKBOOK -> WORKSHEET_NAME
+- Prevalence: ./data/GBD_Country_Data.xlsx -> PIA_Guthold_2018
+- Relative Risks: ./data/RiskFactorData.xls -> RR
+- Impact Factors: ./data/RiskFactorData.xls -> ImpactFactors
 
 # Intervention Mapping
 ## P1 Provide physical activity assessment, counselling, and behaviour change support as part of routine primary health care services through the use of a brief intervention
