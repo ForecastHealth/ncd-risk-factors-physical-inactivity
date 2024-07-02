@@ -1,7 +1,7 @@
 import pandas as pd
 
 DATA_INPUT_FILEPATH = "./data/GBD_Country_Data.xlsx"
-DATA_OUTPUT_FILEPATH = "./tmp/prevalence_physical_inactivity.csv"
+DATA_OUTPUT_FILEPATH = "./tmp/prevalence_inactivity.csv"
 
 def main():
     df = pd.read_excel(
