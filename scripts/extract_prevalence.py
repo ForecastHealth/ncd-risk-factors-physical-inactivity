@@ -43,6 +43,8 @@ def main():
     output_df = pd.DataFrame(processed_data, columns=["iso3", "sex", "age", "value"])
 
     output_df.to_csv(DATA_OUTPUT_FILEPATH, index=False)
+    print(f"Conversion complete. Output saved to {DATA_OUTPUT_FILEPATH}")
+
 
 if __name__ == "__main__":
     main()
