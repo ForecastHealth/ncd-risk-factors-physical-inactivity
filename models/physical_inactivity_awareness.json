@@ -14,13 +14,13 @@
         "id": "INTERVENTION_BASELINE_COVERAGE",
         "description": "Change the baseline coverage for the intervention",
         "position": ["generate_array", "parameters"],
-        "value": "0.0"
+        "value": 0.0
     },
     {
         "id": "INTERVENTION_TARGET_COVERAGE",
         "description": "Change the target coverage for the intervention",
         "position": ["generate_array", "parameters"],
-        "value": "0.0"
+        "value": 0.0
     }
   ],
   "nodes": [
@@ -598,6 +598,7 @@
       "batch": false,
       "narration": "Intervention Impacts are fetched",
       "included_source_nodes": [
+        "m3p3kYqZ",
         "lw9B35Qq"
       ]
     },
@@ -606,6 +607,8 @@
       "batch": false,
       "narration": "Intervention Coverages (Baseline and Target) are initialised",
       "included_source_nodes": [
+        "cgjghym1",
+        "w7UW9Tfq",
         "SjkzUCw9",
         "Xp08uYrT"
       ]
@@ -616,6 +619,7 @@
       "narration": "Marginal Impacts are Initialised with 1, (Summed with 0)",
       "included_source_nodes": [
         "oWAZOadw",
+        "nDuxJ9li",
         "zYXUZira"
       ]
     },
@@ -667,7 +671,9 @@
       "narration": "Intervention Coverage Differences are Calculated",
       "included_edges": [
         "d6ag84Vo",
-        "M2xfXWmu"
+        "M2xfXWmu",
+        "SmWJRRlR",
+        "N6LThlcj"
       ]
     },
     {
@@ -676,7 +682,9 @@
       "narration": "Marginal Impact is calculated (difference in coverage * impact)",
       "included_edges": [
         "mMd6t1zo",
-        "iyHqovoy"
+        "FDNajB71",
+        "iyHqovoy",
+        "OfGYkGvJ"
       ]
     },
     {
@@ -684,6 +692,7 @@
       "batch": false,
       "narration": "Marginal Impacts are Summed",
       "included_edges": [
+        "i2L62VFR",
         "uPNpjfHZ"
       ]
     },

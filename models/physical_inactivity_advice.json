@@ -14,13 +14,13 @@
         "id": "INTERVENTION_BASELINE_COVERAGE",
         "description": "Change the baseline coverage for the intervention",
         "position": ["generate_array", "parameters"],
-        "value": "0.0"
+        "value": 0.0
     },
     {
         "id": "INTERVENTION_TARGET_COVERAGE",
         "description": "Change the target coverage for the intervention",
         "position": ["generate_array", "parameters"],
-        "value": "0.0"
+        "value": 0.0
     }
   ],
   "nodes": [
