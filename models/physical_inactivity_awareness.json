@@ -1,0 +1,719 @@
+{
+  "runtime": {
+    "startYear": 2020,
+    "endYear": 2021
+  },
+  "nodes": [
+    {
+      "id": "xTYJjrqF",
+      "x": -36.33,
+      "y": -8.68,
+      "label": "RFInactivity-RR-Stroke",
+      "color": "#06B4E1",
+      "generate_array": {
+        "data_fetcher_label": "riskfactor",
+        "method": "risk_factor_relative_risk",
+        "parameters": {
+          "risk_factor": "Physical Inactivity",
+          "disease": "Ischemic Stroke",
+          "country": "AFG"
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "jkrahV63",
+      "x": -36.32,
+      "y": 9.7,
+      "label": "RFInactivity-RR-Stroke-ExcessRisk",
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": -1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "09k19mdp",
+      "x": -140.87,
+      "y": 35.08,
+      "label": "RFInactivity-Stroke-prev_rr_baseline",
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "7oLYZgvL",
+      "x": -69.35,
+      "y": 51.04,
+      "label": "NC_RFStroke-PAF_Denom_Baseline",
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "931b9qHb",
+      "x": -142.43,
+      "y": -38.04,
+      "label": "RFInactivity-BaselinePrevalence",
+      "color": "#06B5E1",
+      "generate_array": {
+        "data_fetcher_label": "riskfactor",
+        "method": "risk_factor_prevalence",
+        "parameters": {
+          "risk_factor": "physical_inactivity",
+          "country": "AFG"
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "bxgHRIO9",
+      "x": 61.02,
+      "y": -5.1,
+      "label": "RFInactivity-CurrentPrevalence",
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 0
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "SjkzUCw9",
+      "x": 17.7,
+      "y": -93.34,
+      "label": "NC_RFPhysicalActivityAwreness-BaselineCoverage",
+      "color": "#E5EF73",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 0
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "Xp08uYrT",
+      "x": 86.03,
+      "y": -82.75,
+      "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
+      "color": "#E5EF73",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 0
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "lw9B35Qq",
+      "x": 123.87,
+      "y": -52.76,
+      "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
+      "color": "#E5EF73",
+      "generate_array": {
+        "data_fetcher_label": "riskfactor",
+        "method": "risk_factor_intervention_impact",
+        "parameters": {
+          "risk_factor": "NC_RFInactivity",
+          "intervention": "NC_RFPhysicalActivityAwreness",
+          "level": 1,
+          "default_value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "NiizWCmF",
+      "x": -140.47,
+      "y": 69.42,
+      "label": "NC_RFStroke-PAF-baseline",
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "QsAfkPSa",
+      "x": 60.58,
+      "y": -63.39,
+      "label": "NC_RFPhysicalActivityAwreness-Difference-Coverage",
+      "color": "#E5EF73",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 0
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "oWAZOadw",
+      "x": 60.06,
+      "y": -41.07,
+      "label": "NC_RFPhysicalActivityAwreness-Impact-MarginalImpact",
+      "color": "#E5EF73",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "JAhnFR7Z",
+      "x": 61.7,
+      "y": 32.44,
+      "label": "RFInactivity-Stroke-prev_rr_current",
+      "color": "#06B4E1",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "yBQ8T1pH",
+      "x": 62.1,
+      "y": 66.66,
+      "label": "NC_RFStroke-PAF-Current",
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "oDM01EHS",
+      "x": 5.83,
+      "y": 51.68,
+      "label": "NC_RFStroke-PAF_Denom_Current",
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "wVfBenHP",
+      "x": -33.79,
+      "y": 93.14,
+      "label": "NC_RFStroke-PAF-Marginal",
+      "color": "#FFB255",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 0
+        }
+      },
+      "flush": true
+    },
+    {
+      "id": "zYXUZira",
+      "x": 60.61,
+      "y": -23.97,
+      "label": "Summed_Marginal_Impacts",
+      "color": "#E5EF73",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 0
+        }
+      },
+      "flush": true
+    }
+  ],
+  "links": [
+    {
+      "id": "TyIxkdQE",
+      "source": "xTYJjrqF",
+      "target": "jkrahV63",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "add",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "dmc6H22n",
+      "source": "jkrahV63",
+      "target": "09k19mdp",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "PE0NwqXH",
+      "source": "931b9qHb",
+      "target": "09k19mdp",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "sHvgT6XF",
+      "source": "09k19mdp",
+      "target": "7oLYZgvL",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "Yvn8dL24",
+      "source": "09k19mdp",
+      "target": "NiizWCmF",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "tFWd5rEB",
+      "source": "7oLYZgvL",
+      "target": "NiizWCmF",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "postprocessing": {
+        "reciprocal": true
+      }
+    },
+    {
+      "id": "d6ag84Vo",
+      "source": "SjkzUCw9",
+      "target": "QsAfkPSa",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "M2xfXWmu",
+      "source": "Xp08uYrT",
+      "target": "QsAfkPSa",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "add",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "mMd6t1zo",
+      "source": "lw9B35Qq",
+      "target": "oWAZOadw",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "iyHqovoy",
+      "source": "QsAfkPSa",
+      "target": "oWAZOadw",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "PkGAtfYT",
+      "source": "zYXUZira",
+      "target": "bxgHRIO9",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "value_to_target_operator": "multiply",
+      "postprocessing": {
+        "inverse": true
+      }
+    },
+    {
+      "id": "SpfcorQF",
+      "source": "jkrahV63",
+      "target": "JAhnFR7Z",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "ajHhdowQ",
+      "source": "bxgHRIO9",
+      "target": "JAhnFR7Z",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "DbpyR8b9",
+      "source": "JAhnFR7Z",
+      "target": "yBQ8T1pH",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "Pw7vsQmE",
+      "source": "JAhnFR7Z",
+      "target": "oDM01EHS",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "u1IsN1uB",
+      "source": "oDM01EHS",
+      "target": "yBQ8T1pH",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "multiply",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "postprocessing": {
+        "reciprocal": true
+      }
+    },
+    {
+      "id": "0Rd7B6O9",
+      "source": "931b9qHb",
+      "target": "bxgHRIO9",
+      "remove_value_from_source": false,
+      "value_to_target_operator": "add",
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "dIYao6aU",
+      "source": "NiizWCmF",
+      "target": "wVfBenHP",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "postprocessing": {
+          "negative": true
+        },
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "YInSn5CE",
+      "source": "yBQ8T1pH",
+      "target": "wVfBenHP",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "uPNpjfHZ",
+      "source": "oWAZOadw",
+      "target": "zYXUZira",
+      "value_to_target_operator": "add",
+      "remove_value_from_source": false,
+      "generate_array": {
+        "method": "single_value",
+        "parameters": {
+          "value": 1
+        }
+      }
+    }
+  ],
+  "subroutines": [
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Disease PAFs and PAF_Denoms generate a balance of 1",
+      "included_source_nodes": [
+        "7oLYZgvL",
+        "NiizWCmF",
+        "oDM01EHS",
+        "yBQ8T1pH",
+        "wVfBenHP"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Excess Risk are initialised with a balance of -1",
+      "included_source_nodes": [
+        "jkrahV63"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "prev_rr are initialised with balance 1",
+      "included_source_nodes": [
+        "09k19mdp",
+        "JAhnFR7Z"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Relative Risks are fetched",
+      "included_source_nodes": [
+        "xTYJjrqF"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Baseline prevalence is fetched, Current prevalence is initiatialised",
+      "included_source_nodes": [
+        "931b9qHb",
+        "bxgHRIO9"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Intervention Impacts are fetched",
+      "included_source_nodes": [
+        "lw9B35Qq"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Intervention Coverages (Baseline and Target) are initialised",
+      "included_source_nodes": [
+        "SjkzUCw9",
+        "Xp08uYrT"
+      ]
+    },
+    {
+      "method": "generate_balance",
+      "batch": false,
+      "narration": "Marginal Impacts are Initialised with 1, (Summed with 0)",
+      "included_source_nodes": [
+        "oWAZOadw",
+        "zYXUZira"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Excess Risk is Calculated by adding relative risk to the excess risk nodes",
+      "included_edges": [
+        "TyIxkdQE"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "baseline prev_rr (Prevalence * RR) is calculated by excess risk * prevalence",
+      "included_edges": [
+        "dmc6H22n",
+        "PE0NwqXH"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "PAF Denoms are calculated by adding prev_rrs",
+      "included_edges": [
+        "sHvgT6XF"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "PAF-baseline are calculated by prev_rr / PAF_Denom",
+      "included_edges": [
+        "Yvn8dL24",
+        "tFWd5rEB"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current Prevalence is Initialised by passing value from Baseline Prevalence",
+      "included_edges": [
+        "0Rd7B6O9"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Intervention Coverage Differences are Calculated",
+      "included_edges": [
+        "d6ag84Vo",
+        "M2xfXWmu"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Marginal Impact is calculated (difference in coverage * impact)",
+      "included_edges": [
+        "mMd6t1zo",
+        "iyHqovoy"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Marginal Impacts are Summed",
+      "included_edges": [
+        "uPNpjfHZ"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current Prevalence is updated based on marginal impact",
+      "included_edges": [
+        "PkGAtfYT"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current prev_rr (Prevalence * RR) is calculated by excess risk * prevalence",
+      "included_edges": [
+        "SpfcorQF",
+        "ajHhdowQ"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Current PAF Denoms are calculated by adding prev_rrs",
+      "included_edges": [
+        "Pw7vsQmE"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "PAF-baseline are calculated by prev_rr / PAF_Denom",
+      "included_edges": [
+        "DbpyR8b9",
+        "u1IsN1uB"
+      ]
+    },
+    {
+      "method": "push_balance_to_edges",
+      "batch": false,
+      "narration": "Marginal PAF is calculated by Baseline PAF minus Current PAF",
+      "included_edges": [
+        "dIYao6aU",
+        "YInSn5CE"
+      ]
+    },
+    {
+      "method": "flush",
+      "batch": false,
+      "narration": "Flush nodes"
+    }
+  ]
+}
