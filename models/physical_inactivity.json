@@ -6,8 +6,8 @@
   "nodes": [
     {
       "id": "xTYJjrqF",
-      "x": -48.42,
-      "y": 22.06,
+      "x": -48.1,
+      "y": 21.74,
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
@@ -23,8 +23,8 @@
     },
     {
       "id": "jkrahV63",
-      "x": -48.08,
-      "y": 40.11,
+      "x": -48.09,
+      "y": 40.12,
       "label": "RFInactivity-RR-Stroke-ExcessRisk",
       "color": "#06B4E1",
       "generate_array": {
@@ -37,8 +37,8 @@
     },
     {
       "id": "09k19mdp",
-      "x": -152.63,
-      "y": 65.49,
+      "x": -152.64,
+      "y": 65.5,
       "label": "RFInactivity-Stroke-prev_rr_baseline",
       "color": "#06B4E1",
       "generate_array": {
@@ -51,8 +51,8 @@
     },
     {
       "id": "7oLYZgvL",
-      "x": -81.11,
-      "y": 81.45,
+      "x": -81.12,
+      "y": 81.46,
       "label": "NC_RFStroke-PAF_Denom_Baseline",
       "color": "#FFB255",
       "generate_array": {
@@ -65,8 +65,8 @@
     },
     {
       "id": "931b9qHb",
-      "x": -154.19,
-      "y": -7.63,
+      "x": -154.2,
+      "y": -7.62,
       "label": "RFInactivity-BaselinePrevalence",
       "color": "#06B5E1",
       "generate_array": {
@@ -81,8 +81,8 @@
     },
     {
       "id": "bxgHRIO9",
-      "x": 49.26,
-      "y": 25.31,
+      "x": 49.25,
+      "y": 25.32,
       "label": "RFInactivity-CurrentPrevalence",
       "color": "#06B4E1",
       "generate_array": {
@@ -95,8 +95,8 @@
     },
     {
       "id": "cgjghym1",
-      "x": 4.05,
-      "y": -116.17,
+      "x": 4.04,
+      "y": -116.16,
       "label": "NC_RFPhysicalActivityAdvice-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -109,22 +109,22 @@
     },
     {
       "id": "w7UW9Tfq",
-      "x": -33.43,
-      "y": -103.87,
+      "x": -33.44,
+      "y": -103.86,
       "label": "NC_RFPhysicalActivityAdvice-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
         "method": "single_value",
         "parameters": {
-          "value": 0
+          "value": 0.95
         }
       },
       "flush": true
     },
     {
       "id": "m3p3kYqZ",
-      "x": -55.74,
-      "y": -45.59,
+      "x": -55.75,
+      "y": -45.58,
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -141,8 +141,8 @@
     },
     {
       "id": "SjkzUCw9",
-      "x": 118.17,
-      "y": -114.9,
+      "x": 118.16,
+      "y": -114.89,
       "label": "NC_RFPhysicalActivityAwreness-BaselineCoverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -155,8 +155,8 @@
     },
     {
       "id": "Xp08uYrT",
-      "x": 89.83,
-      "y": -98.69,
+      "x": 89.82,
+      "y": -98.68,
       "label": "NC_RFPhysicalActivityAwreness-Target-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -169,8 +169,8 @@
     },
     {
       "id": "lw9B35Qq",
-      "x": 156.8,
-      "y": -47.84,
+      "x": 156.79,
+      "y": -47.83,
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
@@ -187,8 +187,8 @@
     },
     {
       "id": "NiizWCmF",
-      "x": -152.23,
-      "y": 99.83,
+      "x": -152.24,
+      "y": 99.84,
       "label": "NC_RFStroke-PAF-baseline",
       "color": "#FFB255",
       "generate_array": {
@@ -201,8 +201,8 @@
     },
     {
       "id": "6Cs8lekd",
-      "x": -1.74,
-      "y": -68.62,
+      "x": -1.75,
+      "y": -68.61,
       "label": "NC_RFPhysicalActivityAdvice-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -215,8 +215,8 @@
     },
     {
       "id": "QsAfkPSa",
-      "x": 105.43,
-      "y": -68.73,
+      "x": 105.42,
+      "y": -68.72,
       "label": "NC_RFPhysicalActivityAwreness-Difference-Coverage",
       "color": "#E5EF73",
       "generate_array": {
@@ -229,8 +229,8 @@
     },
     {
       "id": "oWAZOadw",
-      "x": 107.23,
-      "y": -17.28,
+      "x": 107.22,
+      "y": -17.27,
       "label": "NC_RFPhysicalActivityAwreness-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -243,8 +243,8 @@
     },
     {
       "id": "nDuxJ9li",
-      "x": -0.86,
-      "y": -16.92,
+      "x": -0.87,
+      "y": -16.91,
       "label": "NC_RFPhysicalActivityAdvice-Impact-MarginalImpact",
       "color": "#E5EF73",
       "generate_array": {
@@ -257,8 +257,8 @@
     },
     {
       "id": "JAhnFR7Z",
-      "x": 49.94,
-      "y": 62.85,
+      "x": 49.93,
+      "y": 62.86,
       "label": "RFInactivity-Stroke-prev_rr_current",
       "color": "#06B4E1",
       "generate_array": {
@@ -271,8 +271,8 @@
     },
     {
       "id": "yBQ8T1pH",
-      "x": 50.34,
-      "y": 97.07,
+      "x": 50.33,
+      "y": 97.08,
       "label": "NC_RFStroke-PAF-Current",
       "color": "#FFB255",
       "generate_array": {
@@ -285,8 +285,8 @@
     },
     {
       "id": "oDM01EHS",
-      "x": -5.93,
-      "y": 82.09,
+      "x": -5.94,
+      "y": 82.1,
       "label": "NC_RFStroke-PAF_Denom_Current",
       "color": "#FFB255",
       "generate_array": {
@@ -299,8 +299,8 @@
     },
     {
       "id": "wVfBenHP",
-      "x": -45.55,
-      "y": 123.55,
+      "x": -45.56,
+      "y": 123.56,
       "label": "NC_RFStroke-PAF-Marginal",
       "color": "#FFB255",
       "generate_array": {
@@ -313,8 +313,8 @@
     },
     {
       "id": "zYXUZira",
-      "x": 48.85,
-      "y": 6.44,
+      "x": 48.84,
+      "y": 6.45,
       "label": "Summed_Marginal_Impacts",
       "color": "#E5EF73",
       "generate_array": {
@@ -735,10 +735,11 @@
     {
       "method": "generate_balance",
       "batch": false,
-      "narration": "Marginal Impacts are Initialised with 1",
+      "narration": "Marginal Impacts are Initialised with 1, (Summed with 0)",
       "included_source_nodes": [
         "oWAZOadw",
-        "nDuxJ9li"
+        "nDuxJ9li",
+        "zYXUZira"
       ]
     },
     {
