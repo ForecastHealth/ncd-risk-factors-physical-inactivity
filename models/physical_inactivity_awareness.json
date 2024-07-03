@@ -3,6 +3,26 @@
     "startYear": 2020,
     "endYear": 2021
   },
+  "entrypoints": [
+    {
+        "id": "COUNTRY",
+        "description": "Change Country (CCA3, ISO3)",
+        "position": ["generate_array", "parameters"],
+        "value": "AFG"
+    },
+    {
+        "id": "INTERVENTION_BASELINE_COVERAGE",
+        "description": "Change the baseline coverage for the intervention",
+        "position": ["generate_array", "parameters"],
+        "value": "0.0"
+    },
+    {
+        "id": "INTERVENTION_TARGET_COVERAGE",
+        "description": "Change the target coverage for the intervention",
+        "position": ["generate_array", "parameters"],
+        "value": "0.0"
+    }
+  ],
   "nodes": [
     {
       "id": "xTYJjrqF",
@@ -16,7 +36,7 @@
         "parameters": {
           "risk_factor": "Physical Inactivity",
           "disease": "Ischemic Stroke",
-          "country": "AFG"
+          "country": "COUNTRY"
         }
       },
       "flush": true
@@ -74,7 +94,7 @@
         "method": "risk_factor_prevalence",
         "parameters": {
           "risk_factor": "physical_inactivity",
-          "country": "AFG"
+          "country": "COUNTRY"
         }
       },
       "flush": true
@@ -102,7 +122,7 @@
       "generate_array": {
         "method": "single_value",
         "parameters": {
-          "value": 0
+          "value": "INTERVENTION_BASELINE_COVERAGE"
         }
       },
       "flush": true
@@ -116,7 +136,7 @@
       "generate_array": {
         "method": "single_value",
         "parameters": {
-          "value": 0
+          "value": "INTERVENTION_TARGET_COVERAGE"
         }
       },
       "flush": true
