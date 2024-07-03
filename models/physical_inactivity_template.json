@@ -11,9 +11,12 @@
       "label": "RFInactivity-RR-Stroke",
       "color": "#06B4E1",
       "generate_array": {
-        "method": "single_value",
+        "data_fetcher_label": "riskfactor",
+        "method": "risk_factor_relative_risk",
         "parameters": {
-          "value": 1.19
+          "risk_factor": "Physical Inactivity",
+          "disease": "Ischemic Stroke",
+          "country": "AFG"
         }
       },
       "flush": true
@@ -67,7 +70,7 @@
       "label": "RFInactivity-BaselinePrevalence",
       "color": "#06B5E1",
       "generate_array": {
-        "data_fetcher_label": "fhdb",
+        "data_fetcher_label": "riskfactor",
         "method": "risk_factor_prevalence",
         "parameters": {
           "risk_factor": "physical_inactivity",
@@ -125,9 +128,13 @@
       "label": "NC_RFPhysicalActivityAdvice-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
-        "method": "single_value",
+        "data_fetcher_label": "riskfactor",
+        "method": "risk_factor_intervention_impact",
         "parameters": {
-          "value": 0.15
+          "risk_factor": "NC_RFInactivity",
+          "intervention": "NC_RFPhysicalActivityAdvice",
+          "level": 1,
+          "default_value": 1
         }
       },
       "flush": true
@@ -167,9 +174,13 @@
       "label": "NC_RFPhysicalActivityAwreness-Impact-Prevalence",
       "color": "#E5EF73",
       "generate_array": {
-        "method": "single_value",
+        "data_fetcher_label": "riskfactor",
+        "method": "risk_factor_intervention_impact",
         "parameters": {
-          "value": 0.05
+          "risk_factor": "NC_RFInactivity",
+          "intervention": "NC_RFPhysicalActivityAwreness",
+          "level": 1,
+          "default_value": 1
         }
       },
       "flush": true
