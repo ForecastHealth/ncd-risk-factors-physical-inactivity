@@ -1,0 +1,1135 @@
+disease,risk_factor,region,sex,age,value
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Andean Latin America,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Andean Latin America,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Andean Latin America,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Andean Latin America,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Andean Latin America,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Andean Latin America,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Andean Latin America,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Andean Latin America,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Andean Latin America,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Andean Latin America,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Andean Latin America,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Andean Latin America,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Andean Latin America,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Andean Latin America,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Australasia,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Australasia,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Australasia,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Australasia,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Australasia,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Australasia,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Australasia,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Australasia,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Australasia,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Australasia,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Australasia,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Australasia,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Australasia,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Australasia,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Australasia,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Australasia,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Australasia,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Australasia,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Australasia,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Australasia,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Australasia,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Australasia,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Australasia,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Australasia,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Australasia,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Australasia,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Australasia,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Australasia,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Australasia,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Australasia,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Australasia,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Australasia,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Australasia,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Caribbean,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Caribbean,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Caribbean,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Caribbean,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Caribbean,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Caribbean,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Caribbean,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Caribbean,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Caribbean,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Caribbean,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Caribbean,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Caribbean,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Caribbean,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Caribbean,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Caribbean,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Caribbean,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Caribbean,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Caribbean,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Caribbean,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Caribbean,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Caribbean,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Caribbean,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Caribbean,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Caribbean,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Caribbean,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Caribbean,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Caribbean,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Caribbean,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Caribbean,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Asia,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Central Asia,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central Asia,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Central Asia,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central Asia,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central Asia,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Central Asia,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Central Asia,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Central Asia,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Central Asia,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Central Asia,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Central Asia,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Central Asia,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central Asia,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Central Asia,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central Asia,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central Asia,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Central Asia,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Central Asia,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Central Asia,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Central Asia,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Central Asia,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Central Asia,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Central Asia,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Central Asia,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Central Asia,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Central Asia,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Central Asia,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Central Asia,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Europe,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Central Europe,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central Europe,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Central Europe,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central Europe,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central Europe,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Central Europe,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Central Europe,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Central Europe,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Central Europe,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Central Europe,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Central Europe,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Central Europe,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central Europe,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Central Europe,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central Europe,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central Europe,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Central Europe,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Central Europe,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Central Europe,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Central Europe,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Central Europe,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Central Europe,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Central Europe,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Central Europe,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Central Europe,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Central Europe,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Central Europe,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Central Europe,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central Latin America,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Central Latin America,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central Latin America,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Central Latin America,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central Latin America,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central Latin America,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Central Latin America,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Central Latin America,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Central Latin America,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Central Latin America,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Central Latin America,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Central Latin America,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Central Latin America,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central Latin America,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Central Latin America,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central Latin America,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central Latin America,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Central Latin America,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Central Latin America,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Central Latin America,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Central Latin America,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Central Latin America,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Central Latin America,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Central Latin America,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Central Latin America,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Central Latin America,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Central Latin America,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Central Latin America,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Central Latin America,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Central sub-Saharan Africa,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Central sub-Saharan Africa,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Central sub-Saharan Africa,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Central sub-Saharan Africa,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,East Asia,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,East Asia,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,East Asia,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,East Asia,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,East Asia,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,East Asia,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,East Asia,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,East Asia,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,East Asia,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,East Asia,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,East Asia,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,East Asia,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,East Asia,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,East Asia,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,East Asia,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,East Asia,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,East Asia,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,East Asia,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,East Asia,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,East Asia,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,East Asia,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,East Asia,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,East Asia,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,East Asia,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,East Asia,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,East Asia,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,East Asia,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,East Asia,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,East Asia,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,East Asia,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,East Asia,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,East Asia,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,East Asia,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Eastern Europe,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Eastern Europe,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Eastern Europe,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Eastern Europe,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Eastern Europe,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Eastern Europe,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Eastern Europe,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Eastern Europe,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Eastern Europe,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Eastern Europe,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Eastern Europe,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Eastern Europe,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Eastern Europe,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Eastern Europe,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Eastern sub-Saharan Africa,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Eastern sub-Saharan Africa,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Eastern sub-Saharan Africa,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Eastern sub-Saharan Africa,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,High-income Asia Pacific,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,High-income Asia Pacific,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,High-income Asia Pacific,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,High-income Asia Pacific,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,High-income Asia Pacific,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,High-income Asia Pacific,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,High-income Asia Pacific,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,High-income Asia Pacific,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,High-income Asia Pacific,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,High-income Asia Pacific,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,High-income Asia Pacific,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,High-income Asia Pacific,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,High-income Asia Pacific,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,High-income Asia Pacific,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,North Africa and Middle East,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,North Africa and Middle East,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,North Africa and Middle East,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,North Africa and Middle East,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,North Africa and Middle East,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,North Africa and Middle East,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,North Africa and Middle East,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,North Africa and Middle East,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,North Africa and Middle East,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,North Africa and Middle East,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,North Africa and Middle East,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,North Africa and Middle East,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,North Africa and Middle East,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,North Africa and Middle East,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,"North America, High Income",Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,"North America, High Income",Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,"North America, High Income",Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,"North America, High Income",Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,"North America, High Income",Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,"North America, High Income",Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,"North America, High Income",Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,"North America, High Income",Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,"North America, High Income",Female,80 to 100,1.21
+Diabetes,Physical Inactivity,"North America, High Income",Male,30 to 39,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Male,40 to 49,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Male,50 to 59,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Male,60 to 69,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Male,70 to 79,1.43
+Diabetes,Physical Inactivity,"North America, High Income",Male,80 to 100,1.43
+Diabetes,Physical Inactivity,"North America, High Income",Female,30 to 39,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Female,40 to 49,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Female,50 to 59,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Female,60 to 69,1.5
+Diabetes,Physical Inactivity,"North America, High Income",Female,70 to 79,1.43
+Diabetes,Physical Inactivity,"North America, High Income",Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Oceania,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Oceania,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Oceania,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Oceania,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Oceania,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Oceania,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Oceania,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Oceania,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Oceania,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Oceania,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Oceania,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Oceania,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Oceania,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Oceania,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Oceania,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Oceania,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Oceania,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Oceania,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Oceania,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Oceania,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Oceania,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Oceania,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Oceania,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Oceania,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Oceania,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Oceania,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Oceania,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Oceania,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Oceania,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Oceania,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Oceania,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Oceania,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Oceania,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,South Asia,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,South Asia,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,South Asia,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,South Asia,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,South Asia,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,South Asia,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,South Asia,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,South Asia,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,South Asia,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,South Asia,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,South Asia,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,South Asia,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,South Asia,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,South Asia,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,South Asia,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,South Asia,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,South Asia,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,South Asia,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,South Asia,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,South Asia,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,South Asia,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,South Asia,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,South Asia,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,South Asia,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,South Asia,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,South Asia,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,South Asia,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,South Asia,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,South Asia,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,South Asia,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,South Asia,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,South Asia,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,South Asia,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Southeast Asia,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Southeast Asia,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Southeast Asia,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Southeast Asia,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Southeast Asia,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Southeast Asia,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Southeast Asia,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Southeast Asia,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Southeast Asia,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Southeast Asia,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Southeast Asia,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Southeast Asia,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Southeast Asia,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Southeast Asia,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Southern Latin America,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Southern Latin America,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Southern Latin America,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Southern Latin America,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Southern Latin America,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Southern Latin America,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Southern Latin America,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Southern Latin America,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Southern Latin America,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Southern Latin America,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Southern Latin America,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Southern Latin America,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Southern Latin America,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Southern Latin America,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Southern sub-Saharan Africa,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Southern sub-Saharan Africa,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Southern sub-Saharan Africa,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Southern sub-Saharan Africa,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Tropical Latin America,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Tropical Latin America,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Tropical Latin America,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Tropical Latin America,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Tropical Latin America,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Tropical Latin America,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Tropical Latin America,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Tropical Latin America,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Tropical Latin America,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Tropical Latin America,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Tropical Latin America,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Tropical Latin America,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Tropical Latin America,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Tropical Latin America,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Western Europe,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Western Europe,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Western Europe,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Western Europe,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Western Europe,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Western Europe,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Western Europe,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Western Europe,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Western Europe,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Western Europe,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Western Europe,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Western Europe,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Western Europe,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Western Europe,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Western Europe,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Western Europe,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Western Europe,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Western Europe,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Western Europe,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Western Europe,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Western Europe,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Western Europe,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Western Europe,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Western Europe,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Western Europe,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Western Europe,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Western Europe,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Western Europe,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Western Europe,Female,80 to 100,1.43
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Male,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Male,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Male,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Male,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Male,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Male,80 to 100,1.51
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Female,30 to 39,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Female,40 to 49,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Female,50 to 59,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Female,60 to 69,1.66
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Female,70 to 79,1.51
+Ischemic Heart Disease,Physical Inactivity,Western sub-Saharan Africa,Female,80 to 100,1.51
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Male,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Male,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Male,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Male,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Male,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Male,80 to 100,1.21
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Female,30 to 39,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Female,40 to 49,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Female,50 to 59,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Female,60 to 69,1.23
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Female,70 to 79,1.21
+Ischemic Stroke,Physical Inactivity,Western sub-Saharan Africa,Female,80 to 100,1.21
+Breast Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,30 to 39,1.41
+Breast Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,40 to 49,1.41
+Breast Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,50 to 59,1.41
+Breast Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,60 to 69,1.41
+Breast Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,70 to 79,1.36
+Breast Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,80 to 100,1.36
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Male,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Male,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Male,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Male,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Male,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Male,80 to 100,1.21
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,30 to 39,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,40 to 49,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,50 to 59,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,60 to 69,1.27
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,70 to 79,1.21
+Colorectal Cancer,Physical Inactivity,Western sub-Saharan Africa,Female,80 to 100,1.21
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Male,30 to 39,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Male,40 to 49,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Male,50 to 59,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Male,60 to 69,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Male,70 to 79,1.43
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Male,80 to 100,1.43
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Female,30 to 39,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Female,40 to 49,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Female,50 to 59,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Female,60 to 69,1.5
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Female,70 to 79,1.43
+Diabetes,Physical Inactivity,Western sub-Saharan Africa,Female,80 to 100,1.43

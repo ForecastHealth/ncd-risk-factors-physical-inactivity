@@ -1,0 +1,506 @@
+disease,risk_factor,age,value
+Breast Cancer,Physical Inactivity,0,1.0
+Breast Cancer,Physical Inactivity,1,1.0
+Breast Cancer,Physical Inactivity,2,1.0
+Breast Cancer,Physical Inactivity,3,1.0
+Breast Cancer,Physical Inactivity,4,1.0
+Breast Cancer,Physical Inactivity,5,1.0
+Breast Cancer,Physical Inactivity,6,1.0
+Breast Cancer,Physical Inactivity,7,1.0
+Breast Cancer,Physical Inactivity,8,1.0
+Breast Cancer,Physical Inactivity,9,1.0
+Breast Cancer,Physical Inactivity,10,1.0
+Breast Cancer,Physical Inactivity,11,1.0
+Breast Cancer,Physical Inactivity,12,1.0
+Breast Cancer,Physical Inactivity,13,1.0
+Breast Cancer,Physical Inactivity,14,1.0
+Breast Cancer,Physical Inactivity,15,1.0
+Breast Cancer,Physical Inactivity,16,1.0
+Breast Cancer,Physical Inactivity,17,1.0
+Breast Cancer,Physical Inactivity,18,1.0
+Breast Cancer,Physical Inactivity,19,1.0
+Breast Cancer,Physical Inactivity,20,1.0
+Breast Cancer,Physical Inactivity,21,1.0
+Breast Cancer,Physical Inactivity,22,1.0
+Breast Cancer,Physical Inactivity,23,1.0
+Breast Cancer,Physical Inactivity,24,1.0
+Breast Cancer,Physical Inactivity,25,1.0
+Breast Cancer,Physical Inactivity,26,1.0
+Breast Cancer,Physical Inactivity,27,1.0
+Breast Cancer,Physical Inactivity,28,1.0
+Breast Cancer,Physical Inactivity,29,1.0
+Breast Cancer,Physical Inactivity,30,1.41
+Breast Cancer,Physical Inactivity,31,1.41
+Breast Cancer,Physical Inactivity,32,1.41
+Breast Cancer,Physical Inactivity,33,1.41
+Breast Cancer,Physical Inactivity,34,1.41
+Breast Cancer,Physical Inactivity,35,1.41
+Breast Cancer,Physical Inactivity,36,1.41
+Breast Cancer,Physical Inactivity,37,1.41
+Breast Cancer,Physical Inactivity,38,1.41
+Breast Cancer,Physical Inactivity,39,1.41
+Breast Cancer,Physical Inactivity,40,1.41
+Breast Cancer,Physical Inactivity,41,1.41
+Breast Cancer,Physical Inactivity,42,1.41
+Breast Cancer,Physical Inactivity,43,1.41
+Breast Cancer,Physical Inactivity,44,1.41
+Breast Cancer,Physical Inactivity,45,1.41
+Breast Cancer,Physical Inactivity,46,1.41
+Breast Cancer,Physical Inactivity,47,1.41
+Breast Cancer,Physical Inactivity,48,1.41
+Breast Cancer,Physical Inactivity,49,1.41
+Breast Cancer,Physical Inactivity,50,1.41
+Breast Cancer,Physical Inactivity,51,1.41
+Breast Cancer,Physical Inactivity,52,1.41
+Breast Cancer,Physical Inactivity,53,1.41
+Breast Cancer,Physical Inactivity,54,1.41
+Breast Cancer,Physical Inactivity,55,1.41
+Breast Cancer,Physical Inactivity,56,1.41
+Breast Cancer,Physical Inactivity,57,1.41
+Breast Cancer,Physical Inactivity,58,1.41
+Breast Cancer,Physical Inactivity,59,1.41
+Breast Cancer,Physical Inactivity,60,1.41
+Breast Cancer,Physical Inactivity,61,1.41
+Breast Cancer,Physical Inactivity,62,1.41
+Breast Cancer,Physical Inactivity,63,1.41
+Breast Cancer,Physical Inactivity,64,1.41
+Breast Cancer,Physical Inactivity,65,1.41
+Breast Cancer,Physical Inactivity,66,1.41
+Breast Cancer,Physical Inactivity,67,1.41
+Breast Cancer,Physical Inactivity,68,1.41
+Breast Cancer,Physical Inactivity,69,1.41
+Breast Cancer,Physical Inactivity,70,1.36
+Breast Cancer,Physical Inactivity,71,1.36
+Breast Cancer,Physical Inactivity,72,1.36
+Breast Cancer,Physical Inactivity,73,1.36
+Breast Cancer,Physical Inactivity,74,1.36
+Breast Cancer,Physical Inactivity,75,1.36
+Breast Cancer,Physical Inactivity,76,1.36
+Breast Cancer,Physical Inactivity,77,1.36
+Breast Cancer,Physical Inactivity,78,1.36
+Breast Cancer,Physical Inactivity,79,1.36
+Breast Cancer,Physical Inactivity,80,1.36
+Breast Cancer,Physical Inactivity,81,1.36
+Breast Cancer,Physical Inactivity,82,1.36
+Breast Cancer,Physical Inactivity,83,1.36
+Breast Cancer,Physical Inactivity,84,1.36
+Breast Cancer,Physical Inactivity,85,1.36
+Breast Cancer,Physical Inactivity,86,1.36
+Breast Cancer,Physical Inactivity,87,1.36
+Breast Cancer,Physical Inactivity,88,1.36
+Breast Cancer,Physical Inactivity,89,1.36
+Breast Cancer,Physical Inactivity,90,1.36
+Breast Cancer,Physical Inactivity,91,1.36
+Breast Cancer,Physical Inactivity,92,1.36
+Breast Cancer,Physical Inactivity,93,1.36
+Breast Cancer,Physical Inactivity,94,1.36
+Breast Cancer,Physical Inactivity,95,1.36
+Breast Cancer,Physical Inactivity,96,1.36
+Breast Cancer,Physical Inactivity,97,1.36
+Breast Cancer,Physical Inactivity,98,1.36
+Breast Cancer,Physical Inactivity,99,1.36
+Breast Cancer,Physical Inactivity,100,1.36
+Colorectal Cancer,Physical Inactivity,0,1.0
+Colorectal Cancer,Physical Inactivity,1,1.0
+Colorectal Cancer,Physical Inactivity,2,1.0
+Colorectal Cancer,Physical Inactivity,3,1.0
+Colorectal Cancer,Physical Inactivity,4,1.0
+Colorectal Cancer,Physical Inactivity,5,1.0
+Colorectal Cancer,Physical Inactivity,6,1.0
+Colorectal Cancer,Physical Inactivity,7,1.0
+Colorectal Cancer,Physical Inactivity,8,1.0
+Colorectal Cancer,Physical Inactivity,9,1.0
+Colorectal Cancer,Physical Inactivity,10,1.0
+Colorectal Cancer,Physical Inactivity,11,1.0
+Colorectal Cancer,Physical Inactivity,12,1.0
+Colorectal Cancer,Physical Inactivity,13,1.0
+Colorectal Cancer,Physical Inactivity,14,1.0
+Colorectal Cancer,Physical Inactivity,15,1.0
+Colorectal Cancer,Physical Inactivity,16,1.0
+Colorectal Cancer,Physical Inactivity,17,1.0
+Colorectal Cancer,Physical Inactivity,18,1.0
+Colorectal Cancer,Physical Inactivity,19,1.0
+Colorectal Cancer,Physical Inactivity,20,1.0
+Colorectal Cancer,Physical Inactivity,21,1.0
+Colorectal Cancer,Physical Inactivity,22,1.0
+Colorectal Cancer,Physical Inactivity,23,1.0
+Colorectal Cancer,Physical Inactivity,24,1.0
+Colorectal Cancer,Physical Inactivity,25,1.0
+Colorectal Cancer,Physical Inactivity,26,1.0
+Colorectal Cancer,Physical Inactivity,27,1.0
+Colorectal Cancer,Physical Inactivity,28,1.0
+Colorectal Cancer,Physical Inactivity,29,1.0
+Colorectal Cancer,Physical Inactivity,30,1.27
+Colorectal Cancer,Physical Inactivity,31,1.27
+Colorectal Cancer,Physical Inactivity,32,1.27
+Colorectal Cancer,Physical Inactivity,33,1.27
+Colorectal Cancer,Physical Inactivity,34,1.27
+Colorectal Cancer,Physical Inactivity,35,1.27
+Colorectal Cancer,Physical Inactivity,36,1.27
+Colorectal Cancer,Physical Inactivity,37,1.27
+Colorectal Cancer,Physical Inactivity,38,1.27
+Colorectal Cancer,Physical Inactivity,39,1.27
+Colorectal Cancer,Physical Inactivity,40,1.27
+Colorectal Cancer,Physical Inactivity,41,1.27
+Colorectal Cancer,Physical Inactivity,42,1.27
+Colorectal Cancer,Physical Inactivity,43,1.27
+Colorectal Cancer,Physical Inactivity,44,1.27
+Colorectal Cancer,Physical Inactivity,45,1.27
+Colorectal Cancer,Physical Inactivity,46,1.27
+Colorectal Cancer,Physical Inactivity,47,1.27
+Colorectal Cancer,Physical Inactivity,48,1.27
+Colorectal Cancer,Physical Inactivity,49,1.27
+Colorectal Cancer,Physical Inactivity,50,1.27
+Colorectal Cancer,Physical Inactivity,51,1.27
+Colorectal Cancer,Physical Inactivity,52,1.27
+Colorectal Cancer,Physical Inactivity,53,1.27
+Colorectal Cancer,Physical Inactivity,54,1.27
+Colorectal Cancer,Physical Inactivity,55,1.27
+Colorectal Cancer,Physical Inactivity,56,1.27
+Colorectal Cancer,Physical Inactivity,57,1.27
+Colorectal Cancer,Physical Inactivity,58,1.27
+Colorectal Cancer,Physical Inactivity,59,1.27
+Colorectal Cancer,Physical Inactivity,60,1.27
+Colorectal Cancer,Physical Inactivity,61,1.27
+Colorectal Cancer,Physical Inactivity,62,1.27
+Colorectal Cancer,Physical Inactivity,63,1.27
+Colorectal Cancer,Physical Inactivity,64,1.27
+Colorectal Cancer,Physical Inactivity,65,1.27
+Colorectal Cancer,Physical Inactivity,66,1.27
+Colorectal Cancer,Physical Inactivity,67,1.27
+Colorectal Cancer,Physical Inactivity,68,1.27
+Colorectal Cancer,Physical Inactivity,69,1.27
+Colorectal Cancer,Physical Inactivity,70,1.21
+Colorectal Cancer,Physical Inactivity,71,1.21
+Colorectal Cancer,Physical Inactivity,72,1.21
+Colorectal Cancer,Physical Inactivity,73,1.21
+Colorectal Cancer,Physical Inactivity,74,1.21
+Colorectal Cancer,Physical Inactivity,75,1.21
+Colorectal Cancer,Physical Inactivity,76,1.21
+Colorectal Cancer,Physical Inactivity,77,1.21
+Colorectal Cancer,Physical Inactivity,78,1.21
+Colorectal Cancer,Physical Inactivity,79,1.21
+Colorectal Cancer,Physical Inactivity,80,1.21
+Colorectal Cancer,Physical Inactivity,81,1.21
+Colorectal Cancer,Physical Inactivity,82,1.21
+Colorectal Cancer,Physical Inactivity,83,1.21
+Colorectal Cancer,Physical Inactivity,84,1.21
+Colorectal Cancer,Physical Inactivity,85,1.21
+Colorectal Cancer,Physical Inactivity,86,1.21
+Colorectal Cancer,Physical Inactivity,87,1.21
+Colorectal Cancer,Physical Inactivity,88,1.21
+Colorectal Cancer,Physical Inactivity,89,1.21
+Colorectal Cancer,Physical Inactivity,90,1.21
+Colorectal Cancer,Physical Inactivity,91,1.21
+Colorectal Cancer,Physical Inactivity,92,1.21
+Colorectal Cancer,Physical Inactivity,93,1.21
+Colorectal Cancer,Physical Inactivity,94,1.21
+Colorectal Cancer,Physical Inactivity,95,1.21
+Colorectal Cancer,Physical Inactivity,96,1.21
+Colorectal Cancer,Physical Inactivity,97,1.21
+Colorectal Cancer,Physical Inactivity,98,1.21
+Colorectal Cancer,Physical Inactivity,99,1.21
+Colorectal Cancer,Physical Inactivity,100,1.21
+Diabetes,Physical Inactivity,0,1.0
+Diabetes,Physical Inactivity,1,1.0
+Diabetes,Physical Inactivity,2,1.0
+Diabetes,Physical Inactivity,3,1.0
+Diabetes,Physical Inactivity,4,1.0
+Diabetes,Physical Inactivity,5,1.0
+Diabetes,Physical Inactivity,6,1.0
+Diabetes,Physical Inactivity,7,1.0
+Diabetes,Physical Inactivity,8,1.0
+Diabetes,Physical Inactivity,9,1.0
+Diabetes,Physical Inactivity,10,1.0
+Diabetes,Physical Inactivity,11,1.0
+Diabetes,Physical Inactivity,12,1.0
+Diabetes,Physical Inactivity,13,1.0
+Diabetes,Physical Inactivity,14,1.0
+Diabetes,Physical Inactivity,15,1.0
+Diabetes,Physical Inactivity,16,1.0
+Diabetes,Physical Inactivity,17,1.0
+Diabetes,Physical Inactivity,18,1.0
+Diabetes,Physical Inactivity,19,1.0
+Diabetes,Physical Inactivity,20,1.0
+Diabetes,Physical Inactivity,21,1.0
+Diabetes,Physical Inactivity,22,1.0
+Diabetes,Physical Inactivity,23,1.0
+Diabetes,Physical Inactivity,24,1.0
+Diabetes,Physical Inactivity,25,1.0
+Diabetes,Physical Inactivity,26,1.0
+Diabetes,Physical Inactivity,27,1.0
+Diabetes,Physical Inactivity,28,1.0
+Diabetes,Physical Inactivity,29,1.0
+Diabetes,Physical Inactivity,30,1.5
+Diabetes,Physical Inactivity,31,1.5
+Diabetes,Physical Inactivity,32,1.5
+Diabetes,Physical Inactivity,33,1.5
+Diabetes,Physical Inactivity,34,1.5
+Diabetes,Physical Inactivity,35,1.5
+Diabetes,Physical Inactivity,36,1.5
+Diabetes,Physical Inactivity,37,1.5
+Diabetes,Physical Inactivity,38,1.5
+Diabetes,Physical Inactivity,39,1.5
+Diabetes,Physical Inactivity,40,1.5
+Diabetes,Physical Inactivity,41,1.5
+Diabetes,Physical Inactivity,42,1.5
+Diabetes,Physical Inactivity,43,1.5
+Diabetes,Physical Inactivity,44,1.5
+Diabetes,Physical Inactivity,45,1.5
+Diabetes,Physical Inactivity,46,1.5
+Diabetes,Physical Inactivity,47,1.5
+Diabetes,Physical Inactivity,48,1.5
+Diabetes,Physical Inactivity,49,1.5
+Diabetes,Physical Inactivity,50,1.5
+Diabetes,Physical Inactivity,51,1.5
+Diabetes,Physical Inactivity,52,1.5
+Diabetes,Physical Inactivity,53,1.5
+Diabetes,Physical Inactivity,54,1.5
+Diabetes,Physical Inactivity,55,1.5
+Diabetes,Physical Inactivity,56,1.5
+Diabetes,Physical Inactivity,57,1.5
+Diabetes,Physical Inactivity,58,1.5
+Diabetes,Physical Inactivity,59,1.5
+Diabetes,Physical Inactivity,60,1.5
+Diabetes,Physical Inactivity,61,1.5
+Diabetes,Physical Inactivity,62,1.5
+Diabetes,Physical Inactivity,63,1.5
+Diabetes,Physical Inactivity,64,1.5
+Diabetes,Physical Inactivity,65,1.5
+Diabetes,Physical Inactivity,66,1.5
+Diabetes,Physical Inactivity,67,1.5
+Diabetes,Physical Inactivity,68,1.5
+Diabetes,Physical Inactivity,69,1.5
+Diabetes,Physical Inactivity,70,1.43
+Diabetes,Physical Inactivity,71,1.43
+Diabetes,Physical Inactivity,72,1.43
+Diabetes,Physical Inactivity,73,1.43
+Diabetes,Physical Inactivity,74,1.43
+Diabetes,Physical Inactivity,75,1.43
+Diabetes,Physical Inactivity,76,1.43
+Diabetes,Physical Inactivity,77,1.43
+Diabetes,Physical Inactivity,78,1.43
+Diabetes,Physical Inactivity,79,1.43
+Diabetes,Physical Inactivity,80,1.43
+Diabetes,Physical Inactivity,81,1.43
+Diabetes,Physical Inactivity,82,1.43
+Diabetes,Physical Inactivity,83,1.43
+Diabetes,Physical Inactivity,84,1.43
+Diabetes,Physical Inactivity,85,1.43
+Diabetes,Physical Inactivity,86,1.43
+Diabetes,Physical Inactivity,87,1.43
+Diabetes,Physical Inactivity,88,1.43
+Diabetes,Physical Inactivity,89,1.43
+Diabetes,Physical Inactivity,90,1.43
+Diabetes,Physical Inactivity,91,1.43
+Diabetes,Physical Inactivity,92,1.43
+Diabetes,Physical Inactivity,93,1.43
+Diabetes,Physical Inactivity,94,1.43
+Diabetes,Physical Inactivity,95,1.43
+Diabetes,Physical Inactivity,96,1.43
+Diabetes,Physical Inactivity,97,1.43
+Diabetes,Physical Inactivity,98,1.43
+Diabetes,Physical Inactivity,99,1.43
+Diabetes,Physical Inactivity,100,1.43
+IHD,Physical Inactivity,0,1.0
+IHD,Physical Inactivity,1,1.0
+IHD,Physical Inactivity,2,1.0
+IHD,Physical Inactivity,3,1.0
+IHD,Physical Inactivity,4,1.0
+IHD,Physical Inactivity,5,1.0
+IHD,Physical Inactivity,6,1.0
+IHD,Physical Inactivity,7,1.0
+IHD,Physical Inactivity,8,1.0
+IHD,Physical Inactivity,9,1.0
+IHD,Physical Inactivity,10,1.0
+IHD,Physical Inactivity,11,1.0
+IHD,Physical Inactivity,12,1.0
+IHD,Physical Inactivity,13,1.0
+IHD,Physical Inactivity,14,1.0
+IHD,Physical Inactivity,15,1.0
+IHD,Physical Inactivity,16,1.0
+IHD,Physical Inactivity,17,1.0
+IHD,Physical Inactivity,18,1.0
+IHD,Physical Inactivity,19,1.0
+IHD,Physical Inactivity,20,1.0
+IHD,Physical Inactivity,21,1.0
+IHD,Physical Inactivity,22,1.0
+IHD,Physical Inactivity,23,1.0
+IHD,Physical Inactivity,24,1.0
+IHD,Physical Inactivity,25,1.0
+IHD,Physical Inactivity,26,1.0
+IHD,Physical Inactivity,27,1.0
+IHD,Physical Inactivity,28,1.0
+IHD,Physical Inactivity,29,1.0
+IHD,Physical Inactivity,30,1.66
+IHD,Physical Inactivity,31,1.66
+IHD,Physical Inactivity,32,1.66
+IHD,Physical Inactivity,33,1.66
+IHD,Physical Inactivity,34,1.66
+IHD,Physical Inactivity,35,1.66
+IHD,Physical Inactivity,36,1.66
+IHD,Physical Inactivity,37,1.66
+IHD,Physical Inactivity,38,1.66
+IHD,Physical Inactivity,39,1.66
+IHD,Physical Inactivity,40,1.66
+IHD,Physical Inactivity,41,1.66
+IHD,Physical Inactivity,42,1.66
+IHD,Physical Inactivity,43,1.66
+IHD,Physical Inactivity,44,1.66
+IHD,Physical Inactivity,45,1.66
+IHD,Physical Inactivity,46,1.66
+IHD,Physical Inactivity,47,1.66
+IHD,Physical Inactivity,48,1.66
+IHD,Physical Inactivity,49,1.66
+IHD,Physical Inactivity,50,1.66
+IHD,Physical Inactivity,51,1.66
+IHD,Physical Inactivity,52,1.66
+IHD,Physical Inactivity,53,1.66
+IHD,Physical Inactivity,54,1.66
+IHD,Physical Inactivity,55,1.66
+IHD,Physical Inactivity,56,1.66
+IHD,Physical Inactivity,57,1.66
+IHD,Physical Inactivity,58,1.66
+IHD,Physical Inactivity,59,1.66
+IHD,Physical Inactivity,60,1.66
+IHD,Physical Inactivity,61,1.66
+IHD,Physical Inactivity,62,1.66
+IHD,Physical Inactivity,63,1.66
+IHD,Physical Inactivity,64,1.66
+IHD,Physical Inactivity,65,1.66
+IHD,Physical Inactivity,66,1.66
+IHD,Physical Inactivity,67,1.66
+IHD,Physical Inactivity,68,1.66
+IHD,Physical Inactivity,69,1.66
+IHD,Physical Inactivity,70,1.51
+IHD,Physical Inactivity,71,1.51
+IHD,Physical Inactivity,72,1.51
+IHD,Physical Inactivity,73,1.51
+IHD,Physical Inactivity,74,1.51
+IHD,Physical Inactivity,75,1.51
+IHD,Physical Inactivity,76,1.51
+IHD,Physical Inactivity,77,1.51
+IHD,Physical Inactivity,78,1.51
+IHD,Physical Inactivity,79,1.51
+IHD,Physical Inactivity,80,1.51
+IHD,Physical Inactivity,81,1.51
+IHD,Physical Inactivity,82,1.51
+IHD,Physical Inactivity,83,1.51
+IHD,Physical Inactivity,84,1.51
+IHD,Physical Inactivity,85,1.51
+IHD,Physical Inactivity,86,1.51
+IHD,Physical Inactivity,87,1.51
+IHD,Physical Inactivity,88,1.51
+IHD,Physical Inactivity,89,1.51
+IHD,Physical Inactivity,90,1.51
+IHD,Physical Inactivity,91,1.51
+IHD,Physical Inactivity,92,1.51
+IHD,Physical Inactivity,93,1.51
+IHD,Physical Inactivity,94,1.51
+IHD,Physical Inactivity,95,1.51
+IHD,Physical Inactivity,96,1.51
+IHD,Physical Inactivity,97,1.51
+IHD,Physical Inactivity,98,1.51
+IHD,Physical Inactivity,99,1.51
+IHD,Physical Inactivity,100,1.51
+Ischemic Stroke,Physical Inactivity,0,1.0
+Ischemic Stroke,Physical Inactivity,1,1.0
+Ischemic Stroke,Physical Inactivity,2,1.0
+Ischemic Stroke,Physical Inactivity,3,1.0
+Ischemic Stroke,Physical Inactivity,4,1.0
+Ischemic Stroke,Physical Inactivity,5,1.0
+Ischemic Stroke,Physical Inactivity,6,1.0
+Ischemic Stroke,Physical Inactivity,7,1.0
+Ischemic Stroke,Physical Inactivity,8,1.0
+Ischemic Stroke,Physical Inactivity,9,1.0
+Ischemic Stroke,Physical Inactivity,10,1.0
+Ischemic Stroke,Physical Inactivity,11,1.0
+Ischemic Stroke,Physical Inactivity,12,1.0
+Ischemic Stroke,Physical Inactivity,13,1.0
+Ischemic Stroke,Physical Inactivity,14,1.0
+Ischemic Stroke,Physical Inactivity,15,1.0
+Ischemic Stroke,Physical Inactivity,16,1.0
+Ischemic Stroke,Physical Inactivity,17,1.0
+Ischemic Stroke,Physical Inactivity,18,1.0
+Ischemic Stroke,Physical Inactivity,19,1.0
+Ischemic Stroke,Physical Inactivity,20,1.0
+Ischemic Stroke,Physical Inactivity,21,1.0
+Ischemic Stroke,Physical Inactivity,22,1.0
+Ischemic Stroke,Physical Inactivity,23,1.0
+Ischemic Stroke,Physical Inactivity,24,1.0
+Ischemic Stroke,Physical Inactivity,25,1.0
+Ischemic Stroke,Physical Inactivity,26,1.0
+Ischemic Stroke,Physical Inactivity,27,1.0
+Ischemic Stroke,Physical Inactivity,28,1.0
+Ischemic Stroke,Physical Inactivity,29,1.0
+Ischemic Stroke,Physical Inactivity,30,1.23
+Ischemic Stroke,Physical Inactivity,31,1.23
+Ischemic Stroke,Physical Inactivity,32,1.23
+Ischemic Stroke,Physical Inactivity,33,1.23
+Ischemic Stroke,Physical Inactivity,34,1.23
+Ischemic Stroke,Physical Inactivity,35,1.23
+Ischemic Stroke,Physical Inactivity,36,1.23
+Ischemic Stroke,Physical Inactivity,37,1.23
+Ischemic Stroke,Physical Inactivity,38,1.23
+Ischemic Stroke,Physical Inactivity,39,1.23
+Ischemic Stroke,Physical Inactivity,40,1.23
+Ischemic Stroke,Physical Inactivity,41,1.23
+Ischemic Stroke,Physical Inactivity,42,1.23
+Ischemic Stroke,Physical Inactivity,43,1.23
+Ischemic Stroke,Physical Inactivity,44,1.23
+Ischemic Stroke,Physical Inactivity,45,1.23
+Ischemic Stroke,Physical Inactivity,46,1.23
+Ischemic Stroke,Physical Inactivity,47,1.23
+Ischemic Stroke,Physical Inactivity,48,1.23
+Ischemic Stroke,Physical Inactivity,49,1.23
+Ischemic Stroke,Physical Inactivity,50,1.23
+Ischemic Stroke,Physical Inactivity,51,1.23
+Ischemic Stroke,Physical Inactivity,52,1.23
+Ischemic Stroke,Physical Inactivity,53,1.23
+Ischemic Stroke,Physical Inactivity,54,1.23
+Ischemic Stroke,Physical Inactivity,55,1.23
+Ischemic Stroke,Physical Inactivity,56,1.23
+Ischemic Stroke,Physical Inactivity,57,1.23
+Ischemic Stroke,Physical Inactivity,58,1.23
+Ischemic Stroke,Physical Inactivity,59,1.23
+Ischemic Stroke,Physical Inactivity,60,1.23
+Ischemic Stroke,Physical Inactivity,61,1.23
+Ischemic Stroke,Physical Inactivity,62,1.23
+Ischemic Stroke,Physical Inactivity,63,1.23
+Ischemic Stroke,Physical Inactivity,64,1.23
+Ischemic Stroke,Physical Inactivity,65,1.23
+Ischemic Stroke,Physical Inactivity,66,1.23
+Ischemic Stroke,Physical Inactivity,67,1.23
+Ischemic Stroke,Physical Inactivity,68,1.23
+Ischemic Stroke,Physical Inactivity,69,1.23
+Ischemic Stroke,Physical Inactivity,70,1.21
+Ischemic Stroke,Physical Inactivity,71,1.21
+Ischemic Stroke,Physical Inactivity,72,1.21
+Ischemic Stroke,Physical Inactivity,73,1.21
+Ischemic Stroke,Physical Inactivity,74,1.21
+Ischemic Stroke,Physical Inactivity,75,1.21
+Ischemic Stroke,Physical Inactivity,76,1.21
+Ischemic Stroke,Physical Inactivity,77,1.21
+Ischemic Stroke,Physical Inactivity,78,1.21
+Ischemic Stroke,Physical Inactivity,79,1.21
+Ischemic Stroke,Physical Inactivity,80,1.21
+Ischemic Stroke,Physical Inactivity,81,1.21
+Ischemic Stroke,Physical Inactivity,82,1.21
+Ischemic Stroke,Physical Inactivity,83,1.21
+Ischemic Stroke,Physical Inactivity,84,1.21
+Ischemic Stroke,Physical Inactivity,85,1.21
+Ischemic Stroke,Physical Inactivity,86,1.21
+Ischemic Stroke,Physical Inactivity,87,1.21
+Ischemic Stroke,Physical Inactivity,88,1.21
+Ischemic Stroke,Physical Inactivity,89,1.21
+Ischemic Stroke,Physical Inactivity,90,1.21
+Ischemic Stroke,Physical Inactivity,91,1.21
+Ischemic Stroke,Physical Inactivity,92,1.21
+Ischemic Stroke,Physical Inactivity,93,1.21
+Ischemic Stroke,Physical Inactivity,94,1.21
+Ischemic Stroke,Physical Inactivity,95,1.21
+Ischemic Stroke,Physical Inactivity,96,1.21
+Ischemic Stroke,Physical Inactivity,97,1.21
+Ischemic Stroke,Physical Inactivity,98,1.21
+Ischemic Stroke,Physical Inactivity,99,1.21
+Ischemic Stroke,Physical Inactivity,100,1.21

@@ -1,0 +1,1219 @@
+disease,risk_factor,region,sex,age,value
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Andean Latin America,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Andean Latin America,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Andean Latin America,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Andean Latin America,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Andean Latin America,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Andean Latin America,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Andean Latin America,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Andean Latin America,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Andean Latin America,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Andean Latin America,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Australasia,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Australasia,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Australasia,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Australasia,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Australasia,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Australasia,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Australasia,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Australasia,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Australasia,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Australasia,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Australasia,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Australasia,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Australasia,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Australasia,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Australasia,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Australasia,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Australasia,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Caribbean,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Caribbean,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Caribbean,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Caribbean,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Caribbean,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Caribbean,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Caribbean,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Caribbean,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Caribbean,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Caribbean,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Caribbean,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Caribbean,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Caribbean,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Caribbean,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Caribbean,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Caribbean,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Caribbean,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Asia,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Asia,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Central Asia,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Asia,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Asia,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Asia,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Asia,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Asia,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Asia,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Central Asia,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central Asia,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Central Asia,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Central Asia,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Central Asia,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Central Asia,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Central Asia,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central Asia,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Europe,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Europe,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Central Europe,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Europe,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Europe,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Europe,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Europe,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Europe,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Europe,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Central Europe,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central Europe,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Central Europe,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Central Europe,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Central Europe,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Central Europe,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Central Europe,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central Europe,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central Latin America,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central Latin America,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Central Latin America,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Latin America,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Latin America,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Latin America,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Central Latin America,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central Latin America,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central Latin America,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Central Latin America,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central Latin America,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Central Latin America,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Central Latin America,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Central Latin America,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Central Latin America,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Central Latin America,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central Latin America,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Central sub-Saharan Africa,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),East Asia,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),East Asia,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),East Asia,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),East Asia,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),East Asia,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),East Asia,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),East Asia,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),East Asia,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),East Asia,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),East Asia,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),East Asia,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),East Asia,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),East Asia,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),East Asia,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),East Asia,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),East Asia,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),East Asia,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern Europe,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern Europe,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Eastern Europe,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern Europe,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern Europe,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern Europe,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern Europe,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern Europe,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern Europe,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Eastern Europe,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Eastern sub-Saharan Africa,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),High-income Asia Pacific,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),High-income Asia Pacific,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),High-income Asia Pacific,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),High-income Asia Pacific,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),North Africa and Middle East,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),North Africa and Middle East,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),North Africa and Middle East,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),North Africa and Middle East,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),"North America, High Income",Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),"North America, High Income",Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),"North America, High Income",Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),"North America, High Income",Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),"North America, High Income",Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),"North America, High Income",Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),"North America, High Income",Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),"North America, High Income",Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),"North America, High Income",Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),"North America, High Income",Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Oceania,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Oceania,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Oceania,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Oceania,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Oceania,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Oceania,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Oceania,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Oceania,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Oceania,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Oceania,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Oceania,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Oceania,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Oceania,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Oceania,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Oceania,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Oceania,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Oceania,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),South Asia,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),South Asia,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),South Asia,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),South Asia,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),South Asia,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),South Asia,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),South Asia,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),South Asia,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),South Asia,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),South Asia,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),South Asia,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),South Asia,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),South Asia,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),South Asia,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),South Asia,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),South Asia,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),South Asia,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southeast Asia,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southeast Asia,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Southeast Asia,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Southeast Asia,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Southeast Asia,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Southeast Asia,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Southeast Asia,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southeast Asia,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southeast Asia,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Southeast Asia,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern Latin America,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern Latin America,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Southern Latin America,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern Latin America,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern Latin America,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern Latin America,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern Latin America,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern Latin America,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern Latin America,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Southern Latin America,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Southern sub-Saharan Africa,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Tropical Latin America,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Tropical Latin America,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Tropical Latin America,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Tropical Latin America,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Western Europe,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western Europe,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Western Europe,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Western Europe,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Western Europe,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Western Europe,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Western Europe,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western Europe,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western Europe,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Western Europe,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Western Europe,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Western Europe,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Western Europe,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Western Europe,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Western Europe,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Western Europe,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Western Europe,Female,40 to 49,1.2
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,50 to 59,1.09
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Heart Disease,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,80 to 100,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,30 to 39,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,40 to 49,1.14
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,50 to 59,1.1
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,60 to 69,1.08
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,70 to 79,1.05
+Ischemic Stroke,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,80 to 100,1.05
+Breast Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,40 to 49,1.02
+Breast Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,50 to 59,1.02
+Breast Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,60 to 69,1.02
+Breast Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,70 to 79,1.02
+Breast Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,80 to 100,1.02
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,15 to 19,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,20 to 24,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,25 to 29,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,30 to 39,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,40 to 49,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,50 to 59,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,60 to 69,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,70 to 79,1.1
+Cervical Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,80 to 100,1.1
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,80 to 100,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,30 to 39,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,40 to 49,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,50 to 59,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,60 to 69,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,70 to 79,1.03
+Colorectal Cancer,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,80 to 100,1.03
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,40 to 49,1.2
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,50 to 59,1.2
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,60 to 69,1.16
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,70 to 79,1.11
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Male,80 to 100,1.11
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,30 to 39,1.2
+Diabetes,Mean BMI (kg/m2),Western sub-Saharan Africa,Female,40 to 49,1.2
